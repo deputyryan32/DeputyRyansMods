@@ -1,0 +1,96 @@
+####################################################################################################
+#                              VFX MATERIAL GROUP  |  FLAM  |  BURN TIME  |  BURN STR  |  FX_NAME  #
+####################################################################################################
+
+FIREFX_INFO_START
+
+# General
+VOID                    5.0     5.0     5.0     fire_map_slow
+GENERIC                 5.0     5.0     5.0     fire_map_slow
+
+# Hard Surfaces
+CONCRETE                7.5     7.5     7.5     fire_map_slow
+CONCRETE_DUSTY          7.5     7.5     7.5     fire_map_slow
+TARMAC                  7.5     7.5     7.5     fire_map_slow
+TARMAC_BRITTLE          7.5     7.5     7.5     fire_map_slow
+STONE                   7.5     7.5     7.5     fire_map_slow
+BRICK                   7.5     7.5     7.5     fire_map_slow
+MARBLE                  7.5     7.5     7.5     fire_map_slow
+PAVING                  7.5     7.5     7.5     fire_map_slow
+SANDSTONE               7.5     7.5     7.5     fire_map_slow
+SANDSTONE_BRITTLE       7.5     7.5     7.5     fire_map_slow
+
+# Sand & Snow
+SAND_LOOSE              7.5     7.5     7.5     fire_map_slow
+SAND_COMPACT            7.5     7.5     7.5     fire_map_slow
+SAND_WET                7.5     7.5     7.5     fire_map_slow
+SAND_UNDERWATER         5.0     5.0     5.0     fire_map_slow
+SAND_DEEP               5.0     5.0     5.0     fire_map_slow
+SAND_WET_DEEP           5.0     5.0     5.0     fire_map_slow
+ICE                     5.0     5.0     5.0     fire_map_slow
+SNOW_LOOSE              5.0     5.0     5.0     fire_map_slow
+SNOW_COMPACT            5.0     5.0     5.0     fire_map_slow
+GRAVEL                  7.5     7.5     7.5     fire_map_slow
+GRAVEL_DEEP             5.0     5.0     5.0     fire_map_slow
+DIRT_DRY                7.5     7.5     7.5     fire_map_slow
+MUD_SOFT                7.5     7.5     7.5     fire_map_quick
+MUD_DEEP                5.0     5.0     5.0     fire_map_slow
+MUD_UNDERWATER          5.0     5.0     5.0     fire_map_slow
+CLAY                    5.0     5.0     5.0     fire_map_slow
+
+# Vegetation
+GRASS                   25.0    100.0   25.0    fire_map_quick
+GRASS_SHORT             25.0    30.0    25.0    fire_map_quick
+HAY                     25.0    30.0    25.0    fire_map_quick
+BUSHES                  20.0    30.0    20.0    fire_map_quick
+TREE_BARK               20.0    30.0    20.0    fire_map_quick
+LEAVES                  25.0    30.0    25.0    fire_map_quick
+
+# Other Materials
+METAL                   5.0     5.0     5.0     fire_map_slow
+WOOD                    25.0    30.0    25.0    fire_map_quick
+WOOD_DUSTY              25.0    30.0    25.0    fire_map_quick
+WOOD_SPLINTER           25.0    30.0    25.0    fire_map_quick
+CERAMIC                 5.0     5.0     5.0     fire_map_slow
+CARPET_FABRIC           10.0    20.0    10.0    fire_map_slow
+CARPET_FABRIC_DUSTY     10.0    20.0    10.0    fire_map_slow
+PLASTIC                 10.0    20.0    10.0    fire_map_slow
+PLASTIC_HOLLOW          10.0    20.0    10.0    fire_map_slow
+RUBBER                  15.0    30.0    15.0    fire_map_slow
+LINOLEUM                12.5    20.0    12.5    fire_map_slow
+PLASTER_BRITTLE         5.0     5.0     5.0     fire_map_slow
+CARDBOARD               25.0    30.0    25.0    fire_map_quick
+PAPER                   25.0    30.0    25.0    fire_map_quick
+FOAM                    20.0    35.0    20.0    fire_map_quick
+FEATHERS                25.0    30.0    25.0    fire_map_quick
+TVSCREEN                5.0     5.0     5.0     fire_map_slow
+
+# Glass
+GLASS                   5.0     5.0     5.0     fire_map_slow
+GLASS_BULLETPROOF       5.0     5.0     5.0     fire_map_slow
+
+# Vehicle Materials
+CAR_METAL               10.0    100.0   10.0    fire_map_slow
+CAR_PLASTIC             10.0    100.0   10.0    fire_map_slow
+CAR_GLASS               5.0     5.0     5.0     fire_map_slow
+
+# Liquids
+PUDDLE                  5.0     5.0     5.0     fire_map_slow
+LIQUID_WATER            0.0     0.0     0.0     fire_map_slow
+LIQUID_BLOOD            0.0     0.0     0.0     fire_map_slow
+LIQUID_OIL              5.0     5.0     5.0     fire_map_slow
+LIQUID_PETROL           5.0     5.0     5.0     fire_map_slow
+LIQUID_MUD              5.0     5.0     5.0     fire_map_slow
+
+# Organic Materials
+FRESH_MEAT              10.0    25.0    10.0    fire_map_slow
+DRIED_MEAT              10.0    25.0    10.0    fire_map_slow
+
+# Pedestrian Materials
+PED_HEAD                5.0     5.0     5.0     fire_map_slow
+PED_TORSO               5.0     5.0     5.0     fire_map_slow
+PED_LIMB                5.0     5.0     5.0     fire_map_slow
+PED_FOOT                5.0     5.0     5.0     fire_map_slow
+PED_CAPSULE             5.0     5.0     5.0     fire_map_slow
+
+FIREFX_INFO_END

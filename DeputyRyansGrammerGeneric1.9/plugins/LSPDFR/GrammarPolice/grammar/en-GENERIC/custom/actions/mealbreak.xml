@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>mealbreak</Name>
+    <Commands>
+        <string>status</string>
+        <string>update</string>
+        <string>report</string>
+        <string>notify</string>
+        <string>inform</string>
+    </Commands>
+    <Phrases>
+        <string>currently on a meal break</string>
+        <string>taking a meal break, will return shortly</string>
+        <string>on a scheduled meal break at the moment</string>
+        <string>currently away for a meal break</string>
+        <string>on break for meal, will update when back</string>
+        <string>meal break in progress, status update pending</string>
+        <string>taking a meal break, please hold</string>
+        <string>away for meal break, will resume duties soon</string>
+        <string>currently on a break for a meal</string>
+        <string>meal break underway, back shortly</string>
+        <string>on meal break, will be off-duty temporarily</string>
+        <string>reporting that I am on a meal break</string>
+        <string>notify that I am currently taking a meal break</string>
+        <string>informing that meal break is in progress</string>
+        <string>currently on a meal break, will be back soon</string>
+        <string>meal break status: currently away from duty</string>
+        <string>taking a meal break, please wait for my return</string>
+        <string>on meal break at this time, will resume duties shortly</string>
+        <string>currently on a scheduled break for a meal</string>
+        <string>meal break in effect, will resume work as soon as possible</string>
+        <string>currently off for a meal break, updating upon return</string>
+        <string>away for meal break, will check in when back</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.MealBreak</Target>
+</Action>

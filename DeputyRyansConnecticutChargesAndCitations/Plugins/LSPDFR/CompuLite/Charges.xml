@@ -1,0 +1,72 @@
+<!--
+    Connecticut Law-Aligned Charges for CompuLite and LSPDFR
+    Strictly Based on Connecticut Penal Code
+    Modified and Expanded by DeputyModsBeta
+    https://www.deputycad.com
+-->
+
+<CompuLiteCharges>
+    <!-- Traffic Offenses -->
+    <ChargeGroup name="Traffic">
+        <!-- Connecticut General Statutes Title 14 - Motor Vehicles -->
+        <Charge name="Driving Under the Influence (DUI)" traffic="true" fine="10000" susp_chance="100" min_susp="12" max_susp="36" revoke_chance="90" probation_chance="70" min_months="12" max_months="36" statute="C.G.S. § 14-227a"/>
+        <Charge name="Driving While License Suspended" traffic="true" fine="5000" susp_chance="100" min_susp="6" max_susp="24" revoke_chance="80" probation_chance="60" min_months="12" max_months="36" statute="C.G.S. § 14-215"/>
+        <Charge name="Reckless Driving" traffic="true" fine="5000" susp_chance="80" min_susp="6" max_susp="18" revoke_chance="50" probation_chance="70" min_months="12" max_months="24" statute="C.G.S. § 14-222"/>
+        <Charge name="Evading Responsibility (Hit and Run)" traffic="true" fine="10000" susp_chance="100" min_susp="12" max_susp="36" revoke_chance="90" probation_chance="50" min_months="12" max_months="36" statute="C.G.S. § 14-224"/>
+        <Charge name="Speeding 20+ MPH Over Limit" traffic="true" fine="3000" susp_chance="60" min_susp="3" max_susp="12" revoke_chance="30" probation_chance="60" min_months="6" max_months="12" statute="C.G.S. § 14-219"/>
+        <Charge name="Street Racing" traffic="true" fine="10000" susp_chance="80" min_susp="12" max_susp="36" revoke_chance="60" probation_chance="70" min_months="12" max_months="36" statute="C.G.S. § 14-224b"/>
+        <Charge name="Operating Without Insurance" traffic="true" fine="2500" susp_chance="70" min_susp="6" max_susp="12" revoke_chance="50" probation_chance="60" min_months="6" max_months="12" statute="C.G.S. § 38a-371"/>
+        <Charge name="Failure to Obey Traffic Signal" traffic="true" fine="500" susp_chance="10" min_susp="3" max_susp="6" revoke_chance="10" probation_chance="60" min_months="6" max_months="12" statute="C.G.S. § 14-299"/>
+        <Charge name="Operating Under Suspension for DUI" traffic="true" fine="10000" susp_chance="100" min_susp="12" max_susp="36" revoke_chance="90" probation_chance="70" min_months="12" max_months="36" statute="C.G.S. § 14-215(c)"/>
+    </ChargeGroup>
+
+    <!-- Property Crimes -->
+    <ChargeGroup name="Property">
+        <!-- Connecticut General Statutes Title 53a - Penal Code -->
+        <Charge name="Arson 1st Degree" fine_k="250" probation_chance="5" min_years="10" max_years="25" statute="C.G.S. § 53a-111"/>
+        <Charge name="Burglary 1st Degree" fine_k="150" probation_chance="10" min_years="5" max_years="20" statute="C.G.S. § 53a-101"/>
+        <Charge name="Criminal Mischief 1st Degree" fine_k="100" probation_chance="30" min_years="1" max_years="5" statute="C.G.S. § 53a-115"/>
+        <Charge name="Larceny 1st Degree" fine_k="100" probation_chance="20" min_years="5" max_years="20" statute="C.G.S. § 53a-122"/>
+        <Charge name="Vandalism" fine_k="50" probation_chance="40" min_years="1" max_years="5" statute="C.G.S. § 53a-116"/>
+        <Charge name="Criminal Trespass 1st Degree" fine_k="25" probation_chance="30" min_years="1" max_years="3" statute="C.G.S. § 53a-107"/>
+        <Charge name="Forgery 1st Degree" fine_k="75" probation_chance="20" min_years="1" max_years="10" statute="C.G.S. § 53a-138"/>
+        <Charge name="Credit Card Fraud" fine_k="100" probation_chance="20" min_years="1" max_years="10" statute="C.G.S. § 53a-128c"/>
+    </ChargeGroup>
+
+    <!-- Drug-Related Offenses -->
+    <ChargeGroup name="Drug Offenses">
+        <!-- Connecticut General Statutes Title 21a - Controlled Substances Act -->
+        <Charge name="Possession of Narcotics" fine_k="50" probation_chance="30" min_years="1" max_years="5" statute="C.G.S. § 21a-279(a)"/>
+        <Charge name="Possession with Intent to Sell" fine_k="100" probation_chance="10" min_years="5" max_years="15" statute="C.G.S. § 21a-278"/>
+        <Charge name="Possession of Marijuana (>1/2 Ounce)" fine_k="25" probation_chance="50" min_years="1" max_years="3" statute="C.G.S. § 21a-279(c)"/>
+        <Charge name="Possession of Drug Paraphernalia" fine_k="10" probation_chance="50" min_years="1" max_years="3" statute="C.G.S. § 21a-267"/>
+        <Charge name="Operating a Drug Factory" fine_k="150" probation_chance="10" min_years="5" max_years="20" statute="C.G.S. § 21a-277(b)"/>
+        <Charge name="Possession of Hallucinogens" fine_k="50" probation_chance="30" min_years="1" max_years="5" statute="C.G.S. § 21a-279(a)"/>
+    </ChargeGroup>
+
+    <!-- Violent Crimes -->
+    <ChargeGroup name="Violent Crimes">
+        <!-- Connecticut General Statutes Title 53a - Penal Code -->
+        <Charge name="Assault 1st Degree" fine_k="150" probation_chance="5" min_years="5" max_years="20" statute="C.G.S. § 53a-59"/>
+        <Charge name="Assault 2nd Degree" fine_k="100" probation_chance="10" min_years="1" max_years="10" statute="C.G.S. § 53a-60"/>
+        <Charge name="Murder" fine_k="500" probation_chance="0" min_years="25" max_years="60" statute="C.G.S. § 53a-54a"/>
+        <Charge name="Manslaughter 1st Degree" fine_k="250" probation_chance="5" min_years="10" max_years="25" statute="C.G.S. § 53a-55"/>
+        <Charge name="Kidnapping 1st Degree" fine_k="300" probation_chance="5" min_years="10" max_years="25" statute="C.G.S. § 53a-92"/>
+        <Charge name="Robbery 1st Degree" fine_k="150" probation_chance="5" min_years="5" max_years="20" statute="C.G.S. § 53a-134"/>
+        <Charge name="Sexual Assault 1st Degree" fine_k="200" probation_chance="0" min_years="10" max_years="25" statute="C.G.S. § 53a-70"/>
+        <Charge name="Strangulation 1st Degree" fine_k="100" probation_chance="10" min_years="1" max_years="10" statute="C.G.S. § 53a-64aa"/>
+    </ChargeGroup>
+
+    <!-- Public Order Crimes -->
+    <ChargeGroup name="Public Order">
+        <!-- Connecticut General Statutes Title 53a - Penal Code -->
+        <Charge name="Breach of Peace 2nd Degree" fine_k="10" probation_chance="50" min_years="1" max_years="3" statute="C.G.S. § 53a-181"/>
+        <Charge name="Riot in the 1st Degree" fine_k="100" probation_chance="20" min_years="5" max_years="15" statute="C.G.S. § 53a-175"/>
+        <Charge name="Inciting to Riot" fine_k="75" probation_chance="30" min_years="1" max_years="5" statute="C.G.S. § 53a-178"/>
+        <Charge name="Obstructing an Officer" fine_k="50" probation_chance="40" min_years="1" max_years="5" statute="C.G.S. § 53a-167a"/>
+        <Charge name="Criminal Impersonation" fine_k="25" probation_chance="30" min_years="1" max_years="3" statute="C.G.S. § 53a-130"/>
+        <Charge name="Disorderly Conduct" fine_k="10" probation_chance="50" min_years="1" max_years="3" statute="C.G.S. § 53a-182"/>
+        <Charge name="Public Intoxication" fine_k="5" probation_chance="50" min_years="1" max_years="3" statute="C.G.S. § 17a-683"/>
+    </ChargeGroup>
+
+</CompuLiteCharges>

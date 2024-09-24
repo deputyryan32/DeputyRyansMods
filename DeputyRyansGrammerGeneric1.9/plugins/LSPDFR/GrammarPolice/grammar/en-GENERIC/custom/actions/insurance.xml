@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>insurance</Name>
+    <Commands>
+        <string>request</string>
+        <string>call</string>
+        <string>contact</string>
+        <string>notify</string>
+        <string>arrange</string>
+    </Commands>
+    <Phrases>
+        <string>requesting insurance company involvement</string>
+        <string>please contact insurance service for this case</string>
+        <string>need insurance agent on-site for documentation</string>
+        <string>arrange for insurance agency to handle the claim</string>
+        <string>notify insurance company about the incident</string>
+        <string>insurance services required for incident processing</string>
+        <string>call insurance agency for immediate response</string>
+        <string>insurance agent needed for evaluation</string>
+        <string>requesting insurance company support for claim</string>
+        <string>insurance service requested for detailed assessment</string>
+        <string>please notify insurance company for assistance</string>
+        <string>contact insurance agency for urgent handling</string>
+        <string>arrange insurance service to process the claim</string>
+        <string>need insurance company to address the situation</string>
+        <string>insurance agent requested for on-site evaluation</string>
+        <string>request insurance service to manage this incident</string>
+        <string>insurance company needed for claim processing</string>
+        <string>please arrange for insurance agent to respond</string>
+        <string>notify insurance service for immediate action</string>
+        <string>contact insurance company to assist with the claim</string>
+        <string>insurance agency required for this matter</string>
+        <string>insurance services needed for handling the incident</string>
+        <string>call in insurance company for claim management</string>
+        <string>requesting insurance agent for detailed review</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Insurance</Target>
+</Action>

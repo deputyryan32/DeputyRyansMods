@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>accept</Name>
+    <Action>accept</Action>
+    <Phrases>
+        <string>en route</string>
+        <string>I'll check it out</string>
+        <string>on my way</string>
+        <string>responding</string>
+        <string>ten seventy-six, en route</string>
+        <string>ten eight, available for service</string>
+        <string>ten seventy-three, in the area</string>
+        <string>ten ninety-seven, on scene</string>
+        <string>ten twenty-three, arriving at the location</string>
+        <string>ten eighty-one, conducting a breathalyzer</string>
+        <string>ten seventy-five, responding to the report</string>
+        <string>ten sixty-five, message delivered</string>
+        <string>ten seventy-four, out of service</string>
+        <string>ten ninety-eight, completed</string>
+        <string>ten fifty-five, intoxicated driver</string>
+        <string>ten sixty-two, prisoners in custody</string>
+        <string>ten sixty-nine, message received</string>
+        <string>ten seventy-nine, notify coroner</string>
+        <string>ten seventy-eight, traffic stop</string>
+        <string>ten eighty-five, assist with traffic</string>
+        <string>ten ninety-nine, emergency</string>
+        <string>ten seventy-one, out with a vehicle</string>
+        <string>ten eighty-seven, arriving shortly</string>
+        <string>ten sixty-six, assisting</string>
+        <string>ten thirty-four, riot in progress</string>
+        <string>ten forty-two, off duty</string>
+    </Phrases>
+</Command>

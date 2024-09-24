@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3state</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>state backup</string>
+        <string>state trooper</string>
+        <string>code three state</string>
+        <string>code three state backup</string>
+        <string>three state</string>
+        <string>ten seventy-nine, requesting code three state</string>
+        <string>ten thirty-three, code three state backup needed</string>
+        <string>ten eighty-five, code three state response</string>
+        <string>ten ninety-seven, code three state units en route</string>
+        <string>requesting state troopers for code three</string>
+        <string>code three state, urgent backup required</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3State</Target>
+</Action>

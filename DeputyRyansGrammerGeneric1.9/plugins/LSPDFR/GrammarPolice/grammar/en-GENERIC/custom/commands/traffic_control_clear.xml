@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_clear</Name>
+    <Action>traffic_control_clear</Action>
+    <Phrases>
+        <string>clear all traffic</string>
+        <string>clear traffic</string>
+        <string>clear traffic control</string>
+        <string>remove traffic</string>
+        <string>traffic control cleared</string>
+        <string>traffic situation clear</string>
+        <string>traffic is clear</string>
+        <string>all traffic clear</string>
+        <string>clear road</string>
+        <string>road cleared</string>
+        <string>traffic is under control</string>
+        <string>traffic has been cleared</string>
+        <string>traffic removed</string>
+        <string>all lanes clear</string>
+        <string>traffic obstruction removed</string>
+        <string>clear the area</string>
+        <string>roadway cleared</string>
+        <string>all traffic control measures lifted</string>
+        <string>clear the traffic flow</string>
+        <string>all traffic restrictions lifted</string>
+    </Phrases>
+</Command>

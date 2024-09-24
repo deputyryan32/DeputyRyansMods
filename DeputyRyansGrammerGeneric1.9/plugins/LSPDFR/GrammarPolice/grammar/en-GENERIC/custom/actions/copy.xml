@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>copy</Name>
+    <Commands>
+        <string>copy</string>
+        <string>confirm</string>
+        <string>acknowledge</string>
+        <string>repeat</string>
+        <string>affirm</string>
+    </Commands>
+    <Phrases>
+        <string>copy that, understood</string>
+        <string>received and acknowledged</string>
+        <string>copy, message received</string>
+        <string>affirmative, I copy</string>
+        <string>understood, repeating message</string>
+        <string>copy on that, proceeding</string>
+        <string>message received and confirmed</string>
+        <string>copy confirmed, I'll proceed</string>
+        <string>acknowledged, message is clear</string>
+        <string>repeat message confirmed</string>
+        <string>copy received, no further action needed</string>
+        <string>affirmative, copy understood</string>
+        <string>received and will act accordingly</string>
+        <string>copy noted, moving forward</string>
+        <string>acknowledged, message has been copied</string>
+        <string>copy received, proceeding as instructed</string>
+        <string>understood and copied, all set</string>
+        <string>copy that, I'll handle it</string>
+        <string>message copied and confirmed</string>
+        <string>affirmative, proceeding with instructions</string>
+        <string>copy confirmed, no additional info needed</string>
+        <string>received and understood, moving on</string>
+        <string>copy acknowledged, message clear</string>
+        <string>affirmative, message received and acted upon</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Interactions.Copy</Target>
+</Action>

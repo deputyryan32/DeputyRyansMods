@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    # Each "Item" tag may have "chance" attribute
+    # Possible "chance" values are: "rare", "normal", "often"
+    # If "chance" attribute is not set, then the plugin will set it as "normal" by default
+    # Items added by DeputyModsBeta
+-->
+<PatDownItems>
+    <RedItems>
+        <Item chance="normal">a Glock 21 L (Loaded) CC (Concealed Carry)</Item>
+        <Item>an AP Pistol OITC (One in the Chamber) W (Waistband)</Item>
+        <Item chance="rare">a Sticky Bomb</Item>
+        <Item>a packet of Weazel News merchandise</Item>
+        <Item>a bag of Jacks' Special Blend</Item>
+        <Item>a bag of DMT</Item>
+        <Item>a jar of Rooster Teeth Energy Drink</Item>
+        <Item>a bag of Redwood Cigarettes</Item>
+        <Item>an Overdose Pill Bottle</Item>
+        <Item>a loaded syringe of Rocket Fuel</Item>
+        <Item>a bag of Klonopin</Item>
+        <Item>a vial of Liquid Sunshine</Item>
+        <Item>a bag of Shrooms from the Hippie</Item>
+        <Item>a brass knuckles</Item>
+        <Item>a switchblade</Item>
+        <Item>an IAA badge</Item>
+        <Item>a modified pistol L (Loaded) CC (Concealed Carry)</Item>
+        <Item>a silencer</Item>
+        <Item>a set of stolen Red Dead Redemption 2 posters</Item>
+        <Item>counterfeit casino chips</Item>
+        <Item>forged security badges</Item>
+        <Item>a baggie of fake pharmaceuticals</Item>
+        <Item>a vial of muscle enhancer</Item>
+        <Item>an extended clip</Item>
+        <Item>a stun gun</Item>
+        <Item>an oversized wristwatch</Item>
+        <Item>a zip gun U (Unloaded) W (Waistband)</Item>
+        <Item>a prop bomb</Item>
+        <Item>a baggie of Synth-Drug</Item>
+        <Item>a detonator</Item>
+        <Item>a suitcase of counterfeit lottery tickets</Item>
+        <Item>a bulletproof vest</Item>
+        <Item>an explosive device</Item>
+        <Item>a pipe bomb</Item>
+        <Item>military-grade grenades</Item>
+        <Item>an illegal firearm suppressor</Item>
+        <Item>a stolen LSPD badge</Item>
+        <Item>a briefcase with falsified documents</Item>
+        <Item>a stash of fake passports</Item>
+        <Item>a jar of explosive powder</Item>
+        <Item>a box of high-caliber ammunition</Item>
+        <Item>an unregistered taser</Item>
+        <Item>a covert listening device</Item>
+        <Item>a stolen police scanner</Item>
+        <Item>a stash of illegal fireworks</Item>
+        <Item>a forged driving permit</Item>
+        <Item>an illegal sniper rifle OITC (One in the Chamber) CC (Concealed Carry)</Item>
+        <Item>a bag of illegal magazines</Item>
+        <Item>a stolen security pass</Item>
+        <Item>a smuggled firearm component</Item>
+        <Item>a bag of restricted fireworks</Item>
+        <Item>an unauthorized weapon modification kit</Item>
+        <Item>a suitcase of counterfeit cash</Item>
+        <Item>a hidden compartment in a vehicle</Item>
+        <Item>a set of stolen police gear</Item>
+        <Item>a remote-controlled drone with explosives</Item>
+        <Item>a black market keycard</Item>
+        <Item>a canister of tear gas</Item>
+        <Item>a stolen high-tech gadget</Item>
+        <Item>a forged social security card</Item>
+        <Item>a bundle of illegal documents</Item>
+        <Item>a fake driver's license</Item>
+        <Item>a bag of stolen goods</Item>
+        <Item>a hidden compartment with cash</Item>
+        <Item>a concealed firearm P (Pocket)</Item>
+        <Item>a homemade taser</Item>
+        <Item>a stolen LSPD tactical vest</Item>
+        <Item>a book with hidden compartments</Item>
+        <Item>a stash of counterfeit electronics</Item>
+        <Item>a bag of unregistered explosive materials</Item>
+        <Item>a set of false identification cards</Item>
+        <Item>a box of illegal ammunition</Item>
+        <Item>a stolen weapon blueprint</Item>
+        <Item>a bag of forged documents</Item>
+        <Item>a clandestine communication device</Item>
+        <Item>a set of lock-picking tools</Item>
+        <Item>a concealed weapon case</Item>
+        <Item>a set of encrypted files</Item>
+        <Item>a forged vehicle registration</Item>
+        <Item>a box of illegal fireworks</Item>
+        <Item>a package of restricted chemicals</Item>
+        <Item>a bag of black market electronics</Item>
+        <Item>a box of illegal surveillance equipment</Item>
+        <Item>a bag of counterfeit money</Item>
+        <Item>a crate of stolen fireworks</Item>
+        <Item>a bag of illegal performance enhancers</Item>
+        <Item>a roll of counterfeit bills</Item>
+        <Item>a stolen biometric scanner</Item>
+        <Item>a hidden compartment in a laptop</Item>
+        <Item>a prototype weapon OITC (One in the Chamber) W (Waistband)</Item>
+        <Item>a suitcase of forged art pieces</Item>
+        <Item>a bag of encrypted data drives</Item>
+        <Item>a stash of rare drugs</Item>
+        <Item>a high-tech surveillance drone</Item>
+        <Item>a black market silencer</Item>
+        <Item>a set of fake police uniforms</Item>
+        <Item>a briefcase of illicit trade documents</Item>
+        <Item>a collection of counterfeit credit cards</Item>
+        <Item>a set of forged identification badges</Item>
+        <Item>a box of unregistered firearms</Item>
+        <Item>a stash of stolen luxury watches</Item>
+        <Item>a stolen security encryption device</Item>
+        <Item>a hidden compartment in a backpack</Item>
+        <Item>a crate of smuggled pharmaceuticals</Item>
+        <Item>a forged certification document</Item>
+        <Item>a set of illegal hacking tools</Item>
+        <Item>a bag of smuggled exotic animals</Item>
+        <!-- Additional Red Items based on GTAV Lore -->
+        <Item>a stolen military-grade assault rifle L (Loaded) CC (Concealed Carry)</Item>
+        <Item>a briefcase of illicit diamond deals</Item>
+        <Item>a bag of prototype electronics</Item>
+        <Item>a crate of unregistered firearms</Item>
+        <Item>a hidden compartment in a sports car</Item>
+        <Item>a stash of rare collectibles</Item>
+        <Item>a high-end GPS jamming device</Item>
+        <Item>a stolen police drone</Item>
+        <Item>a forged Rockstar Games ID badge</Item>
+        <Item>a collection of secret government files</Item>
+        <Item>a bag of encrypted surveillance data</Item>
+        <Item>a crate of high-tech hacking gadgets</Item>
+        <Item>a stolen prototype weapon OITC (One in the Chamber) W (Waistband)</Item>
+        <Item>a hidden compartment in a high-end safe</Item>
+        <Item>a set of counterfeit legal documents</Item>
+        <Item>a collection of rare art forgeries</Item>
+        <Item>a stash of stolen firearms from a heist</Item>
+        <Item>a suitcase of counterfeit stock certificates</Item>
+        <Item>a black market high-explosive device</Item>
+        <Item>a forged casino security badge</Item>
+        <Item>a hidden compartment in a luxury yacht</Item>
+        <Item>a bag of smuggled rare animals</Item>
+        <Item>a set of stolen high-tech gadgets</Item>
+        <Item>a crate of illegal performance enhancers</Item>
+        <Item>a suitcase of stolen corporate secrets</Item>
+        <Item>a set of forged weapon registration papers</Item>
+        <Item>a stash of counterfeit gold bars</Item>
+        <Item>a high-end stolen electronics kit</Item>
+        <Item>a collection of rare smuggled goods</Item>
+        <Item>a bag of stolen artwork from a museum</Item>
+        <Item>a briefcase of illegal corporate documents</Item>
+        <Item>a forged high-security access card</Item>
+        <Item>a set of illegal surveillance drones</Item>
+        <Item>a hidden compartment in a custom-built vehicle</Item>
+        <Item>a crate of illicit pharmaceutical compounds</Item>
+        <Item>a collection of stolen military tech</Item>
+        <Item>a high-end forged identification badge</Item>
+    </RedItems>
+
+    <YellowItems>
+        <Item>a used needle</Item>
+        <Item chance="often">a pocket knife</Item>
+        <Item>a wire cutter</Item>
+        <Item>a burnt meth pipe</Item>
+        <Item>knuckledusters</Item>
+        <Item>pepper spray</Item>
+        <Item>rusty spoon</Item>
+        <Item>a lockpick</Item>
+        <Item>a clown mask</Item>
+        <Item>a terrorist mask</Item>
+        <Item>an LSPD baton</Item>
+        <Item>screwdriver</Item>
+        <Item>a small bottle of clear liquid</Item>
+        <Item>a metal spoon with black powder residue</Item>
+        <Item>a pipe with tan powder residue</Item>
+        <Item>a pipe with brown powder residue</Item>
+        <Item>a bong with white powder residue</Item>
+        <Item>unmarked pills</Item>
+        <Item>three unmarked pills</Item>
+        <Item>a few tablets in a plastic container</Item>
+        <Item>a few capsules in a plastic container</Item>
+        <Item>a dollar-bill covered in white powder</Item>
+        <Item>a baggie of clear crystals</Item>
+        <Item>a baggie of brown powder</Item>
+        <Item>a baggie of unmarked pills</Item>
+        <Item>a baggie of white powder</Item>
+        <Item>a baggie of blue crystals</Item>
+        <Item>a baggie of tan powder</Item>
+        <Item>a little jar of suspicious liquid</Item>
+        <Item>some blotter papers</Item>
+        <Item>a lighter with a strange logo</Item>
+        <Item>a set of unregistered pharmaceutical pills</Item>
+        <Item>a packet of synthetic drugs</Item>
+        <Item>a roll of counterfeit bills</Item>
+        <Item>a stash of unknown powders</Item>
+        <Item>a bag of questionable substances</Item>
+        <Item>a container of illicit chemicals</Item>
+        <Item>a package of stolen drugs</Item>
+        <Item>a hidden compartment with illegal substances</Item>
+        <Item>a fake ID card</Item>
+        <Item>a bag of unlabelled tablets</Item>
+        <Item>a bottle of suspicious medication</Item>
+        <Item>a collection of counterfeit drug vials</Item>
+        <Item>a stash of hidden pills</Item>
+        <Item>a bundle of mysterious powders</Item>
+        <Item>a box of illegal drug samples</Item>
+        <Item>a bag of unknown pills</Item>
+        <Item>a case of forged prescription bottles</Item>
+        <Item>a hidden bag of synthetic substances</Item>
+        <Item>a collection of disguised drugs</Item>
+        <Item>a bag of impounded narcotics</Item>
+        <Item>a secret compartment with restricted chemicals</Item>
+        <Item>a packet of synthetic narcotics</Item>
+        <Item>a set of counterfeit drug packages</Item>
+        <Item>a collection of illicit drug vials</Item>
+        <Item>a bag of undisclosed substances</Item>
+        <Item>a briefcase of stolen pharmaceuticals</Item>
+        <Item>a set of fake drug prescriptions</Item>
+        <Item>a stash of illegal narcotics</Item>
+        <Item>a hidden compartment in a car seat</Item>
+        <Item>a box of suspicious pills</Item>
+        <Item>a crate of counterfeit medications</Item>
+        <Item>a stash of unauthorized substances</Item>
+        <Item>a package of high-grade narcotics</Item>
+        <Item>a bag of dubious powders</Item>
+    </YellowItems>
+
+    <GreenItems>
+        <Item chance="normal">wallet</Item>
+        <Item>keys</Item>
+        <Item chance="often">cell phone</Item>
+        <Item>pocket camera</Item>
+        <Item>Playboy magazine</Item>
+        <Item>a pair of panties</Item>
+        <Item>dildo</Item>
+        <Item>a vibrator</Item>
+        <Item>a postcard</Item>
+        <Item>a citation ticket</Item>
+        <Item>a cigar</Item>
+        <Item>a used condom</Item>
+        <Item>a condom</Item>
+        <Item>flashlight</Item>
+        <Item>car key fob</Item>
+        <Item>binoculars</Item>
+        <Item chance="often">a pack of cigarettes</Item>
+        <Item>smartphone</Item>
+        <Item chance="often">a ballpoint pen</Item>
+        <Item>a pencil</Item>
+        <Item>Zippo lighter</Item>
+        <Item>matches</Item>
+        <Item>a plane ticket</Item>
+        <Item>sunglasses</Item>
+        <Item>lollipop</Item>
+        <Item>packing tape</Item>
+        <Item>a stolen gym membership card</Item>
+        <Item>a discounted coupon</Item>
+        <Item>a hotel keycard</Item>
+        <Item>a set of fitness tracking bands</Item>
+        <Item>a concert ticket</Item>
+        <Item>a book of lottery tickets</Item>
+        <Item>a set of reading glasses</Item>
+        <Item>a map of the city</Item>
+        <Item>a used transit pass</Item>
+        <Item>a plastic bag with change</Item>
+        <Item>a promotional item from a local business</Item>
+        <Item>a souvenir from a recent trip</Item>
+        <Item>a set of temporary tattoos</Item>
+        <Item>a flyer for a local event</Item>
+        <Item>a set of car maintenance records</Item>
+        <Item>a digital camera</Item>
+        <Item>a small first-aid kit</Item>
+        <Item>a collection of travel brochures</Item>
+        <Item>a bag of assorted office supplies</Item>
+        <Item>a set of dental floss</Item>
+        <Item>a box of tissues</Item>
+        <Item>a roll of wrapping paper</Item>
+        <Item>a packet of gum</Item>
+        <Item>a disposable camera</Item>
+        <Item>a used coffee cup</Item>
+        <Item>a collection of restaurant receipts</Item>
+        <Item>a pack of sticky notes</Item>
+        <Item>a small box of mints</Item>
+        <Item>a gift card</Item>
+        <Item>a set of colored pens</Item>
+        <Item>a bookmark</Item>
+    </GreenItems>
+</PatDownItems>

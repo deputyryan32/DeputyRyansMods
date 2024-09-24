@@ -1,0 +1,62 @@
+<!--
+    Citations for Colorado State Law 
+    Branded for DeputyModsBeta
+    This file is customized to adhere to Colorado State Law.
+    Acceptable attributes for each "Citation" tag:
+      - "name" is the citation name or title
+      - "fine" is the amount of fine money
+-->
+
+<CompuLiteCitations>
+	<CitationGroup name="Public Violations">
+		<Citation name="Animal Cruelty (CRS 18-9-202)" fine="1000"/>
+		<Citation name="Disorderly Conduct (CRS 18-9-106)" fine="500"/>
+		<Citation name="Graffiti (CRS 18-4-509)" fine="750"/>
+		<Citation name="Illegal Camping (CRS 18-9-117)" fine="300"/>
+		<Citation name="Illegal Protesting (CRS 18-9-107)" fine="500"/>
+		<Citation name="Indecent Exposure (CRS 18-7-302)" fine="1000"/>
+		<Citation name="Jaywalking (CRS 42-4-801)" fine="100"/>
+		<Citation name="Littering (CRS 18-4-511)" fine="500"/>
+		<Citation name="Loitering (CRS 18-9-112)" fine="200"/>
+		<Citation name="Public Intoxication (CRS 18-9-122)" fine="200"/>
+		<Citation name="Public Urination (CRS 25-8-503)" fine="250"/>
+		<Citation name="Reckless Endangerment (CRS 18-3-208)" fine="500"/>
+		<Citation name="Trespassing (CRS 18-4-502)" fine="500"/>
+	</CitationGroup>
+	<CitationGroup name="Vehicle Speeding">
+		<Citation name="Speeding 1-4 MPH Over (CRS 42-4-1101)" fine="50"/>
+		<Citation name="Speeding 5-9 MPH Over (CRS 42-4-1101)" fine="150"/>
+		<Citation name="Speeding 10-19 MPH Over (CRS 42-4-1101)" fine="300"/>
+		<Citation name="Speeding 20-39 MPH Over (CRS 42-4-1101)" fine="500"/>
+		<Citation name="Speeding 40+ MPH Over (CRS 42-4-1101)" fine="1000"/>
+	</CitationGroup>
+	<CitationGroup name="Vehicle Operation">
+		<Citation name="Careless Driving (CRS 42-4-1402)" fine="300"/>
+		<Citation name="Driving Under the Influence (CRS 42-4-1301)" fine="1500"/>
+		<Citation name="Reckless Driving (CRS 42-4-1401)" fine="500"/>
+		<Citation name="Driving Without Insurance (CRS 42-4-1409)" fine="1000"/>
+		<Citation name="Driving Without License (CRS 42-2-101)" fine="300"/>
+		<Citation name="Failure to Yield (CRS 42-4-701)" fine="250"/>
+		<Citation name="Failure to Signal (CRS 42-4-903)" fine="150"/>
+		<Citation name="Running a Red Light (CRS 42-4-605)" fine="300"/>
+	</CitationGroup>
+	<CitationGroup name="Vehicle Equipment">
+		<Citation name="Broken Headlight (CRS 42-4-206)" fine="150"/>
+		<Citation name="Broken Tail Light (CRS 42-4-206)" fine="150"/>
+		<Citation name="Illegal Window Tint (CRS 42-4-227)" fine="200"/>
+		<Citation name="Failure to Display License Plates (CRS 42-3-202)" fine="100"/>
+		<Citation name="Failure to Display Registration (CRS 42-3-202)" fine="100"/>
+	</CitationGroup>
+	<CitationGroup name="Document Related">
+		<Citation name="Expired Vehicle Registration (CRS 42-3-114)" fine="250"/>
+		<Citation name="Failure to Present Insurance (CRS 42-4-1409)" fine="500"/>
+		<Citation name="Expired Drivers License (CRS 42-2-118)" fine="200"/>
+	</CitationGroup>
+	<CitationGroup name="Parking Violations">
+		<Citation name="Blocking Access to Disabled Spot (CRS 42-4-1208)" fine="495"/>
+		<Citation name="Double-Parking (CRS 42-4-1202)" fine="85"/>
+		<Citation name="Parking in Disabled Spot (CRS 42-4-1208)" fine="495"/>
+		<Citation name="Parking Near Fire Hydrant (CRS 42-4-1204)" fine="150"/>
+		<Citation name="Parking in No-Parking Zone (CRS 42-4-1204)" fine="200"/>
+	</CitationGroup>
+</CompuLiteCitations>

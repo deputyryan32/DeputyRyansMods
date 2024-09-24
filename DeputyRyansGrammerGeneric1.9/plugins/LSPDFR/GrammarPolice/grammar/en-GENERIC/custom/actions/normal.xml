@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>normal</Name>
+    <Commands>
+        <string>status</string>
+        <string>report</string>
+        <string>update</string>
+        <string>confirm</string>
+        <string>notify</string>
+    </Commands>
+    <Phrases>
+        <string>returning to normal operations</string>
+        <string>status is normal now</string>
+        <string>everything is back to normal</string>
+        <string>normal conditions resumed</string>
+        <string>status report: normal</string>
+        <string>returning to standard procedures</string>
+        <string>all systems functioning normally</string>
+        <string>operations are back to normal</string>
+        <string>normal activity level restored</string>
+        <string>standard operations in effect</string>
+        <string>normal status confirmed</string>
+        <string>everything is operating normally now</string>
+        <string>normal conditions are now in place</string>
+        <string>reporting that things are back to normal</string>
+        <string>confirming that the status is normal</string>
+        <string>operations are proceeding normally</string>
+        <string>normal procedures are back in place</string>
+        <string>status update: normal operations</string>
+        <string>notify that normal conditions have resumed</string>
+        <string>back to normal status and operations</string>
+        <string>confirming return to standard operating conditions</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Interactions.Normal</Target>
+</Action>

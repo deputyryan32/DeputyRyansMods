@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>no</Name>
+    <Action>no</Action>
+    <Phrases>
+        <string>no</string>
+        <string>negative</string>
+        <string>not at this time</string>
+        <string>ten-four, no</string>
+        <string>ten ninety-nine, no further action</string>
+        <string>ten seventy-three, not possible</string>
+        <string>ten eighty-one, no breathalyzer needed</string>
+        <string>ten seventy-five, no additional units</string>
+        <string>ten sixty-six, no further assistance required</string>
+        <string>ten eighty-seven, not arriving</string>
+        <string>ten fifty-five, no intoxication detected</string>
+        <string>ten forty-two, not off-duty</string>
+        <string>ten seventy-nine, no need to notify coroner</string>
+        <string>not applicable</string>
+        <string>ten thirty-four, no riot in progress</string>
+        <string>ten seventy-four, no service required</string>
+        <string>not feasible</string>
+        <string>no action required at this moment</string>
+        <string>ten sixty-five, no message delivered</string>
+        <string>ten eighty-four, no clear</string>
+    </Phrases>
+</Command>

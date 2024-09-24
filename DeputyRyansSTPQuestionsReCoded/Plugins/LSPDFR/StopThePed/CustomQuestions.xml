@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomQuestions>
+  <!-- General Questions -->
+  <CustomQuestion>
+    <Question>Do you live in this neighborhood?</Question>
+    <Answers>
+      <Answer color="#4CAF50">Yes, I live in a Los Santos apartment</Answer>
+      <Answer color="#FFC107">Why do you ask? Just passing through</Answer>
+      <Answer color="#F44336">No, I’m from Blaine County</Answer>
+      <Answer color="#3F51B5">I stay in a Grove Street property</Answer>
+      <Answer color="#4CAF50">Yes, I’ve been here for years</Answer>
+      <Answer color="#FFC107">I frequently visit my cousin in Vinewood</Answer>
+      <Answer color="#4CAF50">Yes, I’m a resident of the Rockford Hills area</Answer>
+      <Answer color="#FFC107">Just here for a meeting at Maze Bank</Answer>
+    </Answers>
+  </CustomQuestion>
+  <CustomQuestion>
+    <Question>Do you have a warrant?</Question>
+    <Answers>
+      <Answer color="#FFC107">Not that I know of, but you can check</Answer>
+      <Answer color="#F44336">Maybe, from a previous incident in San Andreas</Answer>
+      <Answer color="#FFC107">I don't recall having one</Answer>
+      <Answer color="#FFC107">I’m not sure, I haven’t been in trouble lately</Answer>
+      <Answer color="#4CAF50">I’ve never been issued a warrant</Answer>
+      <Answer color="#FFC107">Let me check my records at the local police station</Answer>
+      <Answer color="#F44336">Is that something I should be concerned about?</Answer>
+    </Answers>
+  </CustomQuestion>
+  
+  <!-- DUI Questions -->
+  <CustomQuestionGroup name="DUI Questions">
+    <CustomQuestion>
+      <Question>When was the last time you drank?</Question>
+      <Answers>
+        <Answer color="#F44336">A few hours ago at the Bahama Mamas</Answer>
+        <Answer color="#FFC107">I had a drink at the Vanilla Unicorn</Answer>
+        <Answer color="#F44336">Just an hour ago at the Boathouse</Answer>
+        <Answer color="#F44336">Last night at the Vangelico Casino</Answer>
+        <Answer color="#FFC107">Earlier today at a bar in Downtown</Answer>
+        <Answer color="#F44336">I had a few drinks at the Yellow Jack Inn</Answer>
+        <Answer color="#F44336">Last night at the Alhambra Hotel bar</Answer>
+        <Answer color="#4CAF50">I haven’t drunk anything today</Answer>
+        <Answer color="#F44336">Just a couple of beers at the Tequi-la-la</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>How much did you drink?</Question>
+      <Answers>
+        <Answer color="#FFC107">A glass of wine at the Topaz</Answer>
+        <Answer color="#FFC107">Just 2 cans of beer from the 24/7</Answer>
+        <Answer color="#F44336">A bottle of vodka from the Liquor Ace</Answer>
+        <Answer color="#FFC107">Just a sip of bourbon at the Clubhouse</Answer>
+        <Answer color="#F44336">Three shots of tequila at the Los Santos Customs</Answer>
+        <Answer color="#F44336">Half a bottle of whiskey from the Ammu-Nation store</Answer>
+        <Answer color="#FFC107">A few cocktails at the Prawn Shack</Answer>
+        <Answer color="#F44336">A six-pack of beer from the Beachwood</Answer>
+        <Answer color="#FFC107">One mixed drink at the Split Sides</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Why are your eyes red?</Question>
+      <Answers>
+        <Answer color="#FFC107">I’m exhausted from working at Maze Bank</Answer>
+        <Answer color="#FFC107">I think some dust got into my eyes</Answer>
+        <Answer color="#F44336">Do you think I’m drunk?</Answer>
+        <Answer color="#FFC107">My eyes are always red from allergies</Answer>
+        <Answer color="#FFC107">I’ve been up all night working at the Sonar Collections</Answer>
+        <Answer color="#FFC107">I’m recovering from a cold I caught at the Hospital</Answer>
+        <Answer color="#FFC107">I was exposed to smoke from a recent fire at the Mays Bank</Answer>
+        <Answer color="#FFC107">I haven’t had much sleep due to a busy schedule</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Do you have any alcohol in the vehicle?</Question>
+      <Answers>
+        <Answer color="#4CAF50">No, I've finished it</Answer>
+        <Answer color="#F44336">Yes, there’s an open bottle of whiskey in the trunk</Answer>
+        <Answer color="#FFC107">Maybe, I haven’t checked</Answer>
+        <Answer color="#FFC107">There might be some leftover beer in the glove box</Answer>
+        <Answer color="#4CAF50">I wasn’t aware of any alcohol being in the vehicle</Answer>
+        <Answer color="#4CAF50">No, I cleaned it out this morning</Answer>
+      </Answers>
+    </CustomQuestion>
+  </CustomQuestionGroup>
+  
+  <!-- Vehicle Questions -->
+  <CustomQuestionGroup name="Vehicle Questions">
+    <CustomQuestion>
+      <Question>Do you own that vehicle?</Question>
+      <Answers>
+        <Answer color="#4CAF50">Yes, that’s my Oppressor Mk II</Answer>
+        <Answer color="#FFC107">I’m borrowing this Entity XXR from a friend</Answer>
+        <Answer color="#4CAF50">Absolutely, it’s my own Turismo R</Answer>
+        <Answer color="#4CAF50">Yes, I’ve just purchased this Comet SR</Answer>
+        <Answer color="#FFC107">It’s a company car from the LSPD</Answer>
+        <Answer color="#FFC107">I lease it from the Los Santos Auto Showroom</Answer>
+        <Answer color="#FFC107">I co-own it with my business partner</Answer>
+        <Answer color="#FFC107">It’s a rental from the Downtown Los Santos Rental Agency</Answer>
+        <Answer color="#4CAF50">I just bought it from the Premium Deluxe Motorsport</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Do you know the registration has expired?</Question>
+      <Answers>
+        <Answer color="#FFC107">I'm sorry, I must have missed the renewal date</Answer>
+        <Answer color="#FFC107">Really? I thought I did it last month at the DMV</Answer>
+        <Answer color="#FFC107">Are you sure? I’ve been waiting on my new papers</Answer>
+        <Answer color="#FFC107">Sorry, I’ll take care of it immediately</Answer>
+        <Answer color="#FFC107">I didn’t realize, I’ll contact the DMV right away</Answer>
+        <Answer color="#FFC107">I was informed there was a delay in processing</Answer>
+        <Answer color="#FFC107">My renewal should be in the mail</Answer>
+        <Answer color="#FFC107">I’ve had issues with the DMV website</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Do you know the insurance has expired?</Question>
+      <Answers>
+        <Answer color="#FFC107">I'm sorry, I thought it was still valid</Answer>
+        <Answer color="#FFC107">I was informed it would renew automatically</Answer>
+        <Answer color="#FFC107">Are you sure? I paid for it recently</Answer>
+        <Answer color="#FFC107">I’ll make sure to update it as soon as possible</Answer>
+        <Answer color="#FFC107">It might be due for renewal; I’ll check with my agent</Answer>
+        <Answer color="#FFC107">I thought it was covered under a new policy</Answer>
+        <Answer color="#FFC107">I’ve had some trouble with my insurance provider</Answer>
+        <Answer color="#FFC107">I was waiting on confirmation from my insurance</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Is there anything unusual about this vehicle?</Question>
+      <Answers>
+        <Answer color="#4CAF50">No, it’s just a regular vehicle from Los Santos</Answer>
+        <Answer color="#FFC107">It’s been modified at the Los Santos Customs</Answer>
+        <Answer color="#FFC107">There’s some personal equipment from the Fleeca Bank job</Answer>
+        <Answer color="#FFC107">It has a few dings from a recent run-in with the police</Answer>
+        <Answer color="#FFC107">It’s a rental from the Vehicle Vendoring Company</Answer>
+        <Answer color="#FFC107">It’s not in perfect condition; I just bought it from Simeon’s</Answer>
+      </Answers>
+    </CustomQuestion>
+  </CustomQuestionGroup>
+  
+  <!-- Narcotic Questions -->
+  <CustomQuestionGroup name="Narcotic Questions">
+    <CustomQuestion>
+      <Question>What is that smell?</Question>
+      <Answers>
+        <Answer color="#FFC107">I think it's coming from a pizza I had earlier</Answer>
+        <Answer color="#F44336">It's probably marijuana, I just finished a joint</Answer>
+        <Answer color="#FFC107">I think it might be something from the trunk</Answer>
+        <Answer color="#FFC107">I was cooking some food; it might be burnt</Answer>
+        <Answer color="#F44336">I had some weed earlier, but it’s not in the car now</Answer>
+        <Answer color="#FFC107">I might have spilled something, I’ll check</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Do you have any drugs in the vehicle?</Question>
+      <Answers>
+        <Answer color="#FFC107">Not that I know of; I don't use drugs</Answer>
+        <Answer color="#F44336">Yes, there’s some cocaine hidden in the glove box</Answer>
+        <Answer color="#FFC107">I’m not sure, I don’t use drugs but someone might have left something</Answer>
+        <Answer color="#FFC107">There shouldn’t be any, I cleaned it out this morning</Answer>
+        <Answer color="#F44336">I might have left some pills from a prescription</Answer>
+        <Answer color="#FFC107">No, I haven’t used any drugs recently</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>Are you under the influence?</Question>
+      <Answers>
+        <Answer color="#FFC107">No, I’ve been sober</Answer>
+        <Answer color="#F44336">I might have had a bit too much to drink</Answer>
+        <Answer color="#FFC107">I’m perfectly clear-headed</Answer>
+        <Answer color="#F44336">I’ve used some marijuana, but it was a while ago</Answer>
+        <Answer color="#FFC107">I haven’t used anything, I’m just tired</Answer>
+        <Answer color="#FFC107">No, I haven’t been using any substances</Answer>
+      </Answers>
+    </CustomQuestion>
+  </CustomQuestionGroup>
+</CustomQuestions>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>accept</Name>
+    <Commands>
+        <string>status</string>
+        <string>update</string>
+        <string>confirm</string>
+        <string>acknowledge</string>
+        <string>report</string>
+    </Commands>
+    <Phrases>
+        <string>en route to the scene</string>
+        <string>on my way to the location</string>
+        <string>responding to the call</string>
+        <string>heading there immediately</string>
+        <string>proceeding to the site</string>
+        <string>moving out to the area</string>
+        <string>approaching the incident</string>
+        <string>rolling out to the call</string>
+        <string>en route, ETA 5 minutes</string>
+        <string>dispatch, I'm heading there</string>
+        <string>I'll be there as soon as possible</string>
+        <string>en route, please stand by</string>
+        <string>dispatch, I’m on my way</string>
+        <string>I'll investigate the situation</string>
+        <string>heading over to the location</string>
+        <string>I'm en route to handle it</string>
+        <string>on my way to the scene</string>
+        <string>copy that, I’m en route</string>
+        <string>on my way, should arrive shortly</string>
+        <string>10-97, arriving at the scene</string>
+        <string>en route, estimated arrival in 2 minutes</string>
+        <string>dispatch, proceeding to location</string>
+        <string>heading to the address now</string>
+        <string>responding to your call, en route</string>
+        <string>dispatch, I’m rolling out</string>
+        <string>heading to the site, will update soon</string>
+        <string>on my way, I’ll keep you posted</string>
+        <string>10-76, en route to the call</string>
+        <string>dispatch, I’m en route, will update ETA</string>
+        <string>on the way to handle the situation</string>
+        <string>proceeding towards the location</string>
+        <string>dispatch, I’m en route and will report status soon</string>
+        <string>en route now, ETA about 3 minutes</string>
+        <string>dispatch, I’m on my way, stay tuned for updates</string>
+        <string>responding, en route with estimated arrival in 4 minutes</string>
+        <string>dispatch, heading to the scene, expect updates shortly</string>
+        <string>10-76, en route, will arrive in approximately 2 minutes</string>
+        <string>en route to the scene, please advise on any updates</string>
+        <string>dispatch, on the way, will inform upon arrival</string>
+        <string>heading over, expecting to reach the location soon</string>
+        <string>rolling out now, will update you on arrival</string>
+        <string>en route to the call, ETA 2 minutes, will update upon arrival</string>
+        <string>dispatch, heading there now, will provide status updates</string>
+        <string>10-76, en route with an estimated time of arrival in 3 minutes</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Callout.Accept</Target>
+</Action>

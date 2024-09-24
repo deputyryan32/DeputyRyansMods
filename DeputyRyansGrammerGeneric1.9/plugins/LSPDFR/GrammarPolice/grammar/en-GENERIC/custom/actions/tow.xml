@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>tow</Name>
+    <Commands>
+        <string>request</string>
+        <string>call</string>
+        <string>dispatch</string>
+        <string>notify</string>
+        <string>update</string>
+    </Commands>
+    <Phrases>
+        <string>requesting a tow truck to the scene</string>
+        <string>please dispatch a tow unit immediately</string>
+        <string>need a tow truck for vehicle removal</string>
+        <string>tow service required at the location</string>
+        <string>calling in a tow truck for this incident</string>
+        <string>tow unit requested for vehicle assistance</string>
+        <string>dispatch a tow truck to handle the situation</string>
+        <string>tow service needed, please send a truck</string>
+        <string>notifying for tow truck deployment</string>
+        <string>update: tow truck required at the scene</string>
+        <string>requesting immediate tow assistance</string>
+        <string>please send a tow truck for vehicle extraction</string>
+        <string>urgent call for tow service at the location</string>
+        <string>tow truck needed for ongoing situation</string>
+        <string>dispatching tow unit for vehicle recovery</string>
+        <string>tow truck required for current incident</string>
+        <string>requesting tow truck for emergency response</string>
+        <string>tow service needed, deploy unit now</string>
+        <string>notify and send tow truck to the scene</string>
+        <string>call for tow truck to assist with vehicle removal</string>
+        <string>update: tow truck assistance required urgently</string>
+        <string>dispatching tow truck to the location for assistance</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Tow</Target>
+</Action>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>felonystopbackup</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>felony stop backup</string>
+        <string>eleven twenty seven</string>
+        <string>need backup for a felony stop</string>
+        <string>requesting felony stop assistance</string>
+        <string>felony stop in progress</string>
+        <string>ten ninety five</string>
+        <string>high-risk stop</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.FelonyStopBackup</Target>
+</Action>

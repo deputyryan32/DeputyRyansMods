@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>priority_tone</Name>
+    <Action>priority_tone</Action>
+    <Phrases>
+        <string>signal one hundred</string>
+        <string>clear signal one hundred</string>
+        <string>cancel signal one hundred</string>
+        <string>activate signal one hundred</string>
+        <string>deactivate signal one hundred</string>
+        <string>ten ninety-nine, priority tone active</string>
+        <string>ten seventy-nine, signal one hundred engaged</string>
+        <string>priority tone cleared</string>
+        <string>ten thirty-three, priority tone initiated</string>
+        <string>signal one hundred, requesting confirmation</string>
+        <string>ten eighty-five, priority tone request</string>
+        <string>signal one hundred, cancel request</string>
+        <string>ten seventy-five, priority tone in effect</string>
+        <string>clear all priority tones</string>
+        <string>ten sixty-six, signal one hundred canceled</string>
+        <string>signal one hundred status update</string>
+        <string>ten forty-two, off-duty signal one hundred</string>
+        <string>priority tone active, ten eighty-seven</string>
+        <string>cancel all active priority tones</string>
+        <string>ten ninety-seven, signal one hundred on scene</string>
+    </Phrases>
+</Command>
