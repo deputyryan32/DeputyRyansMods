@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    # Each "Item" tag may have "chance" attribute
+    # Possible "chance" values are: "rare", "normal", "often"
+    # If "chance" attribute is not set, then the plugin will set it as "normal" by default
+    # Branded by DeputyModsBeta - Join our Discord: https://discord.gg/UF88cEKxCZ
+    # Features:
+    # - 200 search items
+    # - Lore-friendly items
+    # - Roleplay items like "Loaded," "Unloaded," etc.
+-->
+<VehicleItems>
+    <RedItems>
+        <!-- Weapons and Illegal Items -->
+        <Item chance="normal">pistol</Item>
+        <Item chance="normal">shotgun</Item>
+        <Item chance="normal">carbine rifle</Item>
+        <Item chance="rare">heavy sniper</Item>
+        <Item chance="rare">grenade</Item>
+        <Item chance="rare">sticky bomb</Item>
+        <Item chance="rare">silencer</Item>
+        <Item chance="rare">bag of C4 explosives</Item>
+        <Item chance="rare">firearm modification kit</Item>
+        <Item chance="rare">fake ID card</Item>
+        <Item chance="rare">lock-picking set</Item>
+        <Item chance="rare">forged passport</Item>
+        <Item chance="rare">stolen laptop</Item>
+        <Item chance="rare">unregistered firearm</Item>
+        <Item chance="rare">tactical vest</Item>
+        <Item chance="rare">illegal knife</Item>
+        <Item chance="rare">stolen vehicle registration</Item>
+        <Item chance="rare">counterfeit badge</Item>
+        <Item chance="rare">bag of illicit substances</Item>
+        <Item chance="rare">abandoned ATM</Item>
+        <Item chance="rare">old security camera</Item>
+        <Item chance="rare">fake gun permit</Item>
+        <Item chance="normal">stolen firearm</Item>
+        <Item chance="normal">forged bank statement</Item>
+        <!-- In-Game Company and Agency Items -->
+        <Item chance="normal">Weed package (Tweedleweed)</Item>
+        <Item chance="normal">Assault Rifle (Mil-Spec)</Item>
+        <Item chance="normal">Security Camera (Redwood)</Item>
+        <Item chance="rare">VIP Badge (LSPD)</Item>
+        <Item chance="rare">Police Radio (LSPD)</Item>
+        <Item chance="rare">SWAT Gear (NOOSE)</Item>
+        <Item chance="rare">Private Investigator Badge (FIB)</Item>
+        <Item chance="rare">Armored Vest (Merryweather)</Item>
+        <Item chance="rare">FIB File (FIB)</Item>
+        <Item chance="rare">Merryweather Contract (Merryweather)</Item>
+        <Item chance="rare">Los Santos Customs Key (LSC)</Item>
+        <Item chance="rare">Police Evidence Bag (LSPD)</Item>
+        <Item chance="normal">E-Cola Can (E-Cola)</Item>
+        <Item chance="normal">Sprunk Can (Sprunk)</Item>
+        <Item chance="normal">Redwood Cigarettes (Redwood)</Item>
+        <Item chance="normal">Debonaire Cigarettes (Debonaire)</Item>
+        <Item chance="normal">Energy Drink (GTA V)</Item>
+        <Item chance="normal">Security Access Card (Eclipse Towers)</Item>
+        <Item chance="normal">FIB Briefcase (FIB)</Item>
+        <Item chance="normal">Coffee Mug (Cafe)</Item>
+        <Item chance="normal">Mechanic Tools (LSC)</Item>
+        <Item chance="rare">Merryweather Gear (Merryweather)</Item>
+        <Item chance="rare">VIP Pass (VIP)</Item>
+        <Item chance="rare">Agency Laptop (FIB)</Item>
+        <Item chance="rare">Night Vision Goggles (NOOSE)</Item>
+        <Item chance="rare">FIB Documents (FIB)</Item>
+        <Item chance="rare">Bomb Detonation Device (Merryweather)</Item>
+        <Item chance="rare">Surveillance Equipment (FIB)</Item>
+        <Item chance="rare">Encrypted Phone (FIB)</Item>
+        <Item chance="rare">SWAT Helmet (NOOSE)</Item>
+        <Item chance="normal">Merryweather Bribe (Merryweather)</Item>
+        <Item chance="normal">LSC Parts (LSC)</Item>
+        <Item chance="normal">Redwood Pistol (Redwood)</Item>
+        <Item chance="normal">Debonaire Pistol (Debonaire)</Item>
+        <!-- Roleplay Items -->
+        <Item chance="normal">Loaded Magazine</Item>
+        <Item chance="normal">Unloaded Magazine</Item>
+        <Item chance="normal">Gun Cleaning Kit</Item>
+        <Item chance="normal">Empty Shell Casings</Item>
+        <Item chance="rare">Tactical Backpack</Item>
+        <Item chance="rare">Emergency Medical Kit</Item>
+        <Item chance="rare">Special Operations Field Manual</Item>
+        <Item chance="rare">Ballistic Shield</Item>
+        <Item chance="rare">Fire Extinguisher</Item>
+        <Item chance="rare">Nightstick</Item>
+        <Item chance="rare">Police Scanner</Item>
+        <Item chance="normal">Field Trauma Kit</Item>
+        <Item chance="normal">Bulletproof Vest</Item>
+        <Item chance="normal">Flashlight</Item>
+        <Item chance="normal">Pepper Spray</Item>
+        <Item chance="normal">Handcuffs</Item>
+        <Item chance="normal">Zip Ties</Item>
+        <Item chance="normal">Smoke Grenade</Item>
+        <Item chance="normal">Flare</Item>
+        <Item chance="normal">Patrol Radio</Item>
+        <Item chance="normal">First Aid Kit</Item>
+        <Item chance="normal">Handgun Holster</Item>
+        <Item chance="normal">Police Baton</Item>
+        <Item chance="normal">Emergency Blanket</Item>
+        <Item chance="normal">Thermal Vision Goggles</Item>
+        <Item chance="rare">Medical Triage Kit</Item>
+        <Item chance="rare">Explosives Disposal Kit</Item>
+        <Item chance="rare">FBI Surveillance Camera</Item>
+        <Item chance="rare">DEA Case File</Item>
+        <Item chance="rare">Crisis Negotiator Kit</Item>
+        <Item chance="rare">Confidential Report (FIB)</Item>
+        <Item chance="rare">Evidence Marker</Item>
+        <Item chance="rare">Secure Briefcase</Item>
+        <Item chance="rare">Investigation Kit</Item>
+        <Item chance="rare">Counter-Surveillance Equipment</Item>
+        <Item chance="rare">FBI Tech Device</Item>
+        <Item chance="rare">SWAT Tactical Gear</Item>
+        <Item chance="rare">Undercover Badge (FIB)</Item>
+        <Item chance="normal">Riot Shield</Item>
+        <Item chance="normal">K-9 Unit Collar</Item>
+        <Item chance="normal">Police Evidence Marker</Item>
+        <Item chance="normal">SWAT Entry Tool</Item>
+        <Item chance="normal">Advanced First Aid Kit</Item>
+        <Item chance="normal">Secure Lock Box</Item>
+        <Item chance="normal">Police Raid Mask</Item>
+        <Item chance="normal">Biometric Scanner</Item>
+        <Item chance="normal">Field Investigation Tools</Item>
+        <Item chance="normal">Undercover Surveillance Kit</Item>
+        <Item chance="normal">Electronic Key</Item>
+        <Item chance="normal">Intelligence Report</Item>
+        <Item chance="normal">SWAT Breaching Equipment</Item>
+        <Item chance="normal">Civilian Protection Gear</Item>
+        <Item chance="normal">Crowd Control Equipment</Item>
+        <Item chance="normal">Vehicle Tracking Device</Item>
+        <Item chance="normal">Agency Radio</Item>
+        <Item chance="normal">Surveillance Drone</Item>
+    </RedItems>
+    
+    <YellowItems>
+        <!-- Roleplay and Miscellaneous Items -->
+        <Item chance="normal">Loaded Weapon</Item>
+        <Item chance="normal">Unloaded Weapon</Item>
+        <Item chance="normal">Weapon Cleaning Kit</Item>
+        <Item chance="normal">Expired Ammunition</Item>
+        <Item chance="normal">Medical Supplies</Item>
+        <Item chance="normal">Old Notebook</Item>
+        <Item chance="normal">Broken Camera</Item>
+        <Item chance="normal">Used Evidence Bag</Item>
+        <Item chance="normal">Old Badge</Item>
+        <Item chance="normal">Expired Credit Card</Item>
+        <Item chance="normal">Unregistered Ammunition</Item>
+        <Item chance="normal">Radio Device</Item>
+        <Item chance="normal">GPS Tracker</Item>
+        <Item chance="normal">Security Pass</Item>
+        <Item chance="normal">CCTV Tape</Item>
+        <Item chance="normal">Spy Camera</Item>
+        <Item chance="normal">Unmarked Envelope</Item>
+        <Item chance="normal">Old Map</Item>
+        <Item chance="normal">Confidential Documents</Item>
+        <Item chance="normal">Forensic Kit</Item>
+        <Item chance="normal">Police Report</Item>
+        <Item chance="normal">Old ID Card</Item>
+        <Item chance="normal">Expired Permit</Item>
+        <Item chance="normal">Weathered Notebook</Item>
+        <Item chance="normal">Handwritten Note</Item>
+        <Item chance="normal">Broken Badge</Item>
+        <Item chance="normal">Old Flashlight</Item>
+        <Item chance="normal">Used Fire Extinguisher</Item>
+        <Item chance="normal">Expired Gun License</Item>
+        <Item chance="normal">Damaged Radio</Item>
+        <Item chance="normal">Outdated Surveillance Equipment</Item>
+        <Item chance="normal">Old Flash Drive</Item>
+        <Item chance="normal">Security Alarm</Item>
+        <Item chance="normal">Miscellaneous Tools</Item>
+        <Item chance="normal">Disposal Kit</Item>
+        <Item chance="normal">Basic First Aid Kit</Item>
+        <Item chance="normal">Old Handgun</Item>
+        <Item chance="normal">Expired Medical Kit</Item>
+        <Item chance="normal">Old Evidence Marker</Item>
+        <Item chance="normal">Expired Agency Access Card</Item>
+        <Item chance="normal">Old Medical File</Item>
+        <Item chance="normal">Outdated Field Manual</Item>
+        <Item chance="normal">Old Cell Phone</Item>
+        <Item chance="normal">Unused Ammunition</Item>
+        <Item chance="normal">Expired Equipment</Item>
+        <Item chance="normal">Obsolete Surveillance Gear</Item>
+        <Item chance="normal">Faded Evidence Bag</Item>
+        <Item chance="normal">Old Agency Notebook</Item>
+        <Item chance="normal">Damaged Ammunition Box</Item>
+        <Item chance="normal">Used Riot Shield</Item>
+        <Item chance="normal">Deactivated GPS Device</Item>
+    </YellowItems>
+
+    <GreenItems>
+        <!-- Miscellaneous Items -->
+        <Item chance="normal">GPS Device</Item>
+        <Item chance="normal">Police Badge</Item>
+        <Item chance="normal">Gun Magazine</Item>
+        <Item chance="normal">First Aid Kit</Item>
+        <Item chance="normal">Secure Briefcase</Item>
+        <Item chance="normal">Mobile Phone</Item>
+        <Item chance="normal">Handcuffs</Item>
+        <Item chance="normal">Radio Transmitter</Item>
+        <Item chance="normal">Flashlight</Item>
+        <Item chance="normal">Fire Extinguisher</Item>
+        <Item chance="normal">Tactical Vest</Item>
+        <Item chance="normal">Pepper Spray</Item>
+        <Item chance="normal">Flare Gun</Item>
+        <Item chance="normal">Bulletproof Vest</Item>
+        <Item chance="normal">Crowbar</Item>
+        <Item chance="normal">Multi-Tool</Item>
+        <Item chance="normal">Surveillance Camera</Item>
+        <Item chance="normal">Evidence Kit</Item>
+        <Item chance="normal">Thermal Camera</Item>
+        <Item chance="normal">Medical Kit</Item>
+        <Item chance="normal">Police Scanner</Item>
+        <Item chance="normal">Firearm Maintenance Kit</Item>
+        <Item chance="normal">Broken Radio</Item>
+        <Item chance="normal">Security Access Card</Item>
+        <Item chance="normal">Thermal Imaging Device</Item>
+        <Item chance="normal">Digital Recorder</Item>
+        <Item chance="normal">Evidence Collection Kit</Item>
+        <Item chance="normal">Basic Medical Supplies</Item>
+        <Item chance="normal">Portable Radio</Item>
+        <Item chance="normal">Surveillance Equipment</Item>
+        <Item chance="normal">GPS Tracker</Item>
+        <Item chance="normal">Emergency Signal Flare</Item>
+    </GreenItems>
+</VehicleItems>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>k9</Name>
+    <Commands>
+        <string>request</string>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>kay nine</string>
+        <string>kay nine unit</string>
+        <string>requesting kay nine</string>
+        <string>kay nine assistance</string>
+        <string>deploy kay nine</string>
+        <string>kay nine team</string>
+        <string>search with kay nine</string>
+        <string>kay nine on scene</string>
+        <string>kay nine unit needed</string>
+        <string>kay nine requested</string>
+        <string>eleven fifty eight</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.K9</Target>
+</Action>

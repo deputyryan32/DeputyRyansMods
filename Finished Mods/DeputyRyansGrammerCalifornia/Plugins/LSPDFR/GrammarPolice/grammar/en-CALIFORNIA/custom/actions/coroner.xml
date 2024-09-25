@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>coroner</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>coroner</string>
+        <string>C S I</string>
+        <string>eleven forty four</string>
+        <string>requesting coroner</string>
+        <string>need a coroner</string>
+        <string>request C S I</string>
+        <string>send coroner to the scene</string>
+        <string>ten ninety seven, coroner required</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Coroner</Target>
+</Action>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>busy</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>busy</string>
+        <string>unavailable</string>
+        <string>ten six</string>
+        <string>ten seventy-nine, busy</string>
+        <string>ten thirty-three, currently unavailable</string>
+        <string>ten eighty-five, unable to respond</string>
+        <string>ten ninety-seven, busy with another call</string>
+        <string>busy at the moment</string>
+        <string>ten forty-two, off-duty and busy</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Busy</Target>
+</Action>

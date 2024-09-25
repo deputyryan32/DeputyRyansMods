@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code2state</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>code two state</string>
+        <string>code two state backup</string>
+        <string>two state</string>
+        <string>ten seventy-nine, requesting code two state</string>
+        <string>ten thirty-three, code two state backup needed</string>
+        <string>ten eighty-five, code two state response</string>
+        <string>ten ninety-seven, code two state on the way</string>
+        <string>requesting state code two</string>
+        <string>code two state, backup required</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code2State</Target>
+</Action>

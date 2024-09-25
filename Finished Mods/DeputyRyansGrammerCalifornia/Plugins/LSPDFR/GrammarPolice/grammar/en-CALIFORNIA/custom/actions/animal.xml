@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>animal</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>animal control</string>
+        <string>eleven thirteen</string>
+        <string>requesting animal control</string>
+        <string>ten eighty-five, animal control needed</string>
+        <string>ten thirty-three, animal control on the way</string>
+        <string>ten seventy-nine, animal control requested</string>
+        <string>animal control assistance required</string>
+        <string>ten forty-two, off-duty animal control</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Animal</Target>
+</Action>

@@ -1,0 +1,111 @@
+<!--
+    Ultra-detailed, strictly realistic charges based on Colorado state law (C.R.S.).
+    Branded for DeputyModsBeta.
+    Visit www.deputycad.com for more mods.
+    Join our Discord: https://discord.gg/UF88cEKxCZ
+-->
+
+<CompuLiteCharges>
+
+	<!-- Traffic Offenses -->
+	<ChargeGroup name="Traffic Offenses">
+		<Charge name="Driving Under the Influence (DUI)" traffic="true" fine="2,000" susp_chance="100" min_susp="12" max_susp="24" revoke_chance="100" probation_chance="50" min_months="12" max_months="24" crs="42-4-1301"/>
+		<Charge name="Driving While Ability Impaired (DWAI)" traffic="true" fine="1,500" susp_chance="100" min_susp="9" max_susp="18" revoke_chance="50" probation_chance="60" min_months="6" max_months="12" crs="42-4-1301(1)(g)"/>
+		<Charge name="Vehicular Eluding (Felony)" traffic="true" fine="10,000" susp_chance="100" min_susp="36" max_susp="60" revoke_chance="100" probation_chance="20" min_years="2" max_years="6" crs="18-9-116.5"/>
+		<Charge name="Reckless Driving" traffic="true" fine="1,500" susp_chance="100" min_susp="6" max_susp="12" revoke_chance="50" probation_chance="50" min_months="6" max_months="12" crs="42-4-1401"/>
+		<Charge name="Careless Driving" traffic="true" fine="1,000" susp_chance="50" min_susp="3" max_susp="6" revoke_chance="20" probation_chance="60" min_months="3" max_months="6" crs="42-4-1402"/>
+		<Charge name="Driving Without Insurance" traffic="true" fine="1,000" susp_chance="50" min_susp="3" max_susp="6" revoke_chance="20" probation_chance="60" min_months="3" max_months="6" crs="42-4-1409"/>
+		<Charge name="Driving Without a License" traffic="true" fine="1,000" susp_chance="50" min_susp="3" max_susp="6" revoke_chance="20" probation_chance="60" min_months="3" max_months="6" crs="42-2-101"/>
+		<Charge name="Hit and Run (Property Damage)" traffic="true" fine="5,000" susp_chance="100" min_susp="12" max_susp="24" revoke_chance="50" probation_chance="40" min_months="6" max_months="12" crs="42-4-1601(1)"/>
+		<Charge name="Hit and Run (Injury)" traffic="true" fine="10,000" susp_chance="100" min_susp="24" max_susp="48" revoke_chance="100" probation_chance="20" min_years="1" max_years="5" crs="42-4-1601(2)"/>
+		<Charge name="Street Racing" traffic="true" fine="5,000" susp_chance="100" min_susp="12" max_susp="24" revoke_chance="50" probation_chance="30" min_months="6" max_months="12" crs="42-4-1105"/>
+		<Charge name="Driving with a Revoked License" traffic="true" fine="2,500" susp_chance="100" min_susp="12" max_susp="24" revoke_chance="100" probation_chance="40" min_months="12" max_months="24" crs="42-2-138"/>
+		<Charge name="Speeding 20 MPH Over Limit" traffic="true" fine="500" susp_chance="20" min_susp="1" max_susp="3" revoke_chance="10" probation_chance="60" min_months="1" max_months="3" crs="42-4-1101"/>
+		<Charge name="Aggressive Driving" traffic="true" fine="1,000" susp_chance="50" min_susp="6" max_susp="12" revoke_chance="30" probation_chance="40" min_months="6" max_months="12" crs="42-4-1401(1)"/>
+	</ChargeGroup>
+
+	<!-- Property Crimes -->
+	<ChargeGroup name="Property Crimes">
+		<Charge name="1st Degree Arson" fine="20,000" probation_chance="0" min_years="10" max_years="30" crs="18-4-102"/>
+		<Charge name="2nd Degree Arson" fine="10,000" probation_chance="10" min_years="5" max_years="10" crs="18-4-103"/>
+		<Charge name="3rd Degree Arson" fine="5,000" probation_chance="20" min_years="2" max_years="6" crs="18-4-104"/>
+		<Charge name="Burglary (1st Degree)" fine="15,000" probation_chance="5" min_years="10" max_years="24" crs="18-4-202"/>
+		<Charge name="Burglary (2nd Degree)" fine="10,000" probation_chance="10" min_years="5" max_years="10" crs="18-4-203"/>
+		<Charge name="Criminal Mischief (Damage over $1,000)" fine="2,000" probation_chance="30" min_years="1" max_years="5" crs="18-4-501"/>
+		<Charge name="Theft (Value over $5,000)" fine="5,000" probation_chance="20" min_years="1" max_years="10" crs="18-4-401"/>
+		<Charge name="Trespassing (1st Degree)" fine="2,500" probation_chance="20" min_months="6" max_months="12" crs="18-4-502"/>
+		<Charge name="Trespassing (2nd Degree)" fine="1,500" probation_chance="30" min_months="3" max_months="6" crs="18-4-503"/>
+		<Charge name="Vandalism" fine="1,000" probation_chance="40" min_months="6" max_months="12" crs="18-4-501"/>
+		<Charge name="Forgery" fine="7,500" probation_chance="30" min_years="2" max_years="10" crs="18-5-102"/>
+		<Charge name="Fraud" fine="10,000" probation_chance="20" min_years="5" max_years="15" crs="18-5-205"/>
+		<Charge name="Identity Theft" fine="15,000" probation_chance="10" min_years="4" max_years="12" crs="18-5-902"/>
+		<Charge name="Embezzlement" fine="10,000" probation_chance="20" min_years="5" max_years="10" crs="18-4-401"/>
+	</ChargeGroup>
+
+	<!-- Drug-Related Offenses -->
+	<ChargeGroup name="Drug-Related Offenses">
+		<Charge name="Possession of Cocaine (Schedule II)" fine="10,000" probation_chance="10" min_years="2" max_years="8" crs="18-18-403.5"/>
+		<Charge name="Possession of Methamphetamine (Schedule II)" fine="10,000" probation_chance="10" min_years="2" max_years="8" crs="18-18-403.5"/>
+		<Charge name="Possession of Heroin (Schedule I)" fine="10,000" probation_chance="10" min_years="2" max_years="8" crs="18-18-403.5"/>
+		<Charge name="Possession of Fentanyl (Schedule II)" fine="15,000" probation_chance="5" min_years="5" max_years="10" crs="18-18-403.5"/>
+		<Charge name="Possession of Marijuana (Over 2 ounces)" fine="1,000" probation_chance="50" min_months="6" max_months="12" crs="18-18-406"/>
+		<Charge name="Distribution of Cocaine (Schedule II)" fine="20,000" probation_chance="0" min_years="10" max_years="30" crs="18-18-405"/>
+		<Charge name="Distribution of Methamphetamine (Schedule II)" fine="20,000" probation_chance="0" min_years="10" max_years="30" crs="18-18-405"/>
+		<Charge name="Distribution of Heroin (Schedule I)" fine="20,000" probation_chance="0" min_years="10" max_years="30" crs="18-18-405"/>
+		<Charge name="Possession with Intent to Distribute (Schedule II)" fine="15,000" probation_chance="0" min_years="5" max_years="15" crs="18-18-405"/>
+		<Charge name="Manufacturing Controlled Substances" fine="25,000" probation_chance="0" min_years="10" max_years="30" crs="18-18-405"/>
+		<Charge name="Cultivation of Marijuana (Over 6 plants)" fine="5,000" probation_chance="20" min_years="1" max_years="5" crs="18-18-406"/>
+		<Charge name="Public Intoxication" fine="500" probation_chance="70" min_months="1" max_months="6" crs="18-9-122"/>
+	</ChargeGroup>
+
+	<!-- Violent Crimes -->
+	<ChargeGroup name="Violent Crimes">
+		<Charge name="1st Degree Murder" fine="100,000" probation_chance="0" min_years="life" max_years="life" crs="18-3-102"/>
+		<Charge name="2nd Degree Murder" fine="50,000" probation_chance="0" min_years="25" max_years="40" crs="18-3-103"/>
+		<Charge name="Manslaughter" fine="25,000" probation_chance="0" min_years="5" max_years="20" crs="18-3-104"/>
+		<Charge name="Vehicular Homicide (DUI)" fine="50,000" probation_chance="0" min_years="10" max_years="32" crs="18-3-106"/>
+		<Charge name="Assault (1st Degree)" fine="20,000" probation_chance="0" min_years="10" max_years="30" crs="18-3-202"/>
+		<Charge name="Assault (2nd Degree)" fine="10,000" probation_chance="10" min_years="5" max_years="10" crs="18-3-203"/>
+		<Charge name="Assault (3rd Degree)" fine="5,000" probation_chance="20" min_months="6" max_months="18" crs="18-3-204"/>
+		<Charge name="Robbery" fine="15,000" probation_chance="10" min_years="5" max_years="15" crs="18-4-301"/>
+		<Charge name="Aggravated Robbery" fine="25,000" probation_chance="0" min_years="10" max_years="30" crs="18-4-302"/>
+		<Charge name="Kidnapping (1st Degree)" fine="50,000" probation_chance="0" min_years="10" max_years="30" crs="18-3-301"/>
+		<Charge name="Kidnapping (2nd Degree)" fine="25,000" probation_chance="10" min_years="5" max_years="15" crs="18-3-302"/>
+		<Charge name="Child Abuse (Resulting in Death)" fine="50,000" probation_chance="0" min_years="10" max_years="30" crs="18-6-401"/>
+		<Charge name="Domestic Violence" fine="5,000" probation_chance="30" min_months="6" max_months="24" crs="18-6-800.3"/>
+		<Charge name="Menacing (with Weapon)" fine="10,000" probation_chance="20" min_years="2" max_years="8" crs="18-3-206"/>
+	</ChargeGroup>
+
+	<!-- Sexual Offenses -->
+	<ChargeGroup name="Sexual Offenses">
+		<Charge name="Rape (1st Degree)" fine="50,000" probation_chance="0" min_years="20" max_years="life" crs="18-3-402"/>
+		<Charge name="Rape (2nd Degree)" fine="30,000" probation_chance="0" min_years="10" max_years="20" crs="18-3-403"/>
+		<Charge name="Sexual Assault on a Child" fine="50,000" probation_chance="0" min_years="10" max_years="30" crs="18-3-405"/>
+		<Charge name="Indecent Exposure" fine="5,000" probation_chance="40" min_months="6" max_months="24" crs="18-7-302"/>
+		<Charge name="Prostitution" fine="1,000" probation_chance="60" min_months="3" max_months="12" crs="18-7-201"/>
+		<Charge name="Solicitation of Prostitution" fine="2,000" probation_chance="50" min_months="3" max_months="12" crs="18-7-202"/>
+		<Charge name="Human Trafficking (Sexual Servitude)" fine="100,000" probation_chance="0" min_years="20" max_years="life" crs="18-3-503"/>
+	</ChargeGroup>
+
+	<!-- Public Order Offenses -->
+	<ChargeGroup name="Public Order Offenses">
+		<Charge name="Disorderly Conduct" fine="500" probation_chance="50" min_months="1" max_months="6" crs="18-9-106"/>
+		<Charge name="Rioting" fine="5,000" probation_chance="10" min_years="1" max_years="5" crs="18-9-102"/>
+		<Charge name="Obstruction of Justice" fine="2,500" probation_chance="20" min_months="6" max_months="12" crs="18-8-104"/>
+		<Charge name="Resisting Arrest" fine="1,500" probation_chance="30" min_months="6" max_months="12" crs="18-8-103"/>
+		<Charge name="Perjury" fine="5,000" probation_chance="30" min_years="1" max_years="5" crs="18-8-502"/>
+		<Charge name="Bribery" fine="20,000" probation_chance="0" min_years="5" max_years="15" crs="18-8-302"/>
+		<Charge name="Witness Tampering" fine="10,000" probation_chance="0" min_years="3" max_years="10" crs="18-8-707"/>
+		<Charge name="Contempt of Court" fine="2,000" probation_chance="40" min_months="3" max_months="12" crs="18-8-302"/>
+	</ChargeGroup>
+
+	<!-- Environmental Crimes -->
+	<ChargeGroup name="Environmental Crimes">
+		<Charge name="Illegal Dumping" fine="5,000" probation_chance="30" min_months="6" max_months="12" crs="30-15-401.5"/>
+		<Charge name="Poaching" fine="10,000" probation_chance="20" min_months="6" max_months="24" crs="33-6-109"/>
+		<Charge name="Pollution Violation" fine="20,000" probation_chance="10" min_years="1" max_years="5" crs="25-8-608"/>
+		<Charge name="Animal Cruelty" fine="10,000" probation_chance="20" min_years="1" max_years="5" crs="18-9-202"/>
+		<Charge name="Illegal Fishing" fine="1,500" probation_chance="50" min_months="3" max_months="6" crs="33-6-104"/>
+	</ChargeGroup>
+
+</CompuLiteCharges>

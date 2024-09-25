@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>taser</Name>
+    <Action>taser</Action>
+    <Phrases>
+        <string>taser</string>
+        <string>taser deployed</string>
+        <string>taser has been deployed</string>
+        <string>deploying taser</string>
+        <string>taser use initiated</string>
+        <string>ten eighty-five, taser deployed</string>
+        <string>taser engaged</string>
+        <string>ten seventy-nine, taser use confirmed</string>
+        <string>taser activation</string>
+        <string>ten thirty-three, taser in use</string>
+        <string>taser successfully deployed</string>
+        <string>ten sixty-six, taser usage reported</string>
+        <string>taser discharge</string>
+        <string>ten seventy-five, taser deployment status</string>
+        <string>taser has been activated</string>
+        <string>ten ninety-nine, taser active</string>
+        <string>taser application complete</string>
+        <string>ten forty-two, off-duty taser use</string>
+    </Phrases>
+</Command>

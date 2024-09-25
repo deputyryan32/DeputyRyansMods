@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>accept</Name>
+    <Action>accept</Action>
+    <Phrases>
+        <string>en route</string>
+        <string>I'll check it out</string>
+        <string>on my way</string>
+        <string>responding</string>
+        <string>copy, en route</string>
+        <string>heading there now</string>
+        <string>got it, responding</string>
+        <string>on the move</string>
+        <string>affirmative, responding</string>
+        <string>I'll handle it</string>
+        <string>10-4, en route</string>
+        <string>copy that, moving out</string>
+        <string>proceeding to the location</string>
+        <string>understood, on the way</string>
+        <string>moving to the scene</string>
+        <string>responding, over</string>
+        <string>I'll take care of it</string>
+        <string>roger that, on my way</string>
+        <string>consider it done</string>
+        <string>going there now</string>
+        <string>I'll be there shortly</string>
+        <string>checking it out</string>
+        <string>on my way, over</string>
+        <string>message received, en route</string>
+        <string>I'm on it</string>
+        <string>making my way there</string>
+        <string>heading out now</string>
+        <string>I'll get on that</string>
+        <string>on route, over</string>
+        <string>affirmative, on the way</string>
+        <string>understood, en route</string>
+        <string>copy, I'll handle it</string>
+        <string>I'll be there</string>
+        <string>moving out now</string>
+        <string>got it, on the way</string>
+        <string>heading to the location</string>
+        <string>on the scene soon</string>
+        <string>responding immediately</string>
+        <string>I'll be on site shortly</string>
+        <string>I'll take a look</string>
+        <string>moving to the location</string>
+        <string>affirmative, I'll take it</string>
+        <string>copy that, en route</string>
+    </Phrases>
+</Command>

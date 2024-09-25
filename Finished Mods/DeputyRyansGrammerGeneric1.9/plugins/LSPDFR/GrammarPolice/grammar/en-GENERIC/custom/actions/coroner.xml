@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>coroner</Name>
+    <Commands>
+        <string>request</string>
+        <string>call</string>
+        <string>dispatch</string>
+        <string>notify</string>
+        <string>summon</string>
+    </Commands>
+    <Phrases>
+        <string>requesting coroner to the scene</string>
+        <string>dispatch coroner for assistance</string>
+        <string>please send the coroner immediately</string>
+        <string>coroner needed at the location</string>
+        <string>summon coroner for further investigation</string>
+        <string>need coroner services at this site</string>
+        <string>coroner requested for this incident</string>
+        <string>dispatching coroner for immediate response</string>
+        <string>call in the coroner for detailed examination</string>
+        <string>coroner required, please respond</string>
+        <string>requesting coroner for scene processing</string>
+        <string>notify coroner for urgent arrival</string>
+        <string>coroner units needed for this case</string>
+        <string>please send coroner for further action</string>
+        <string>coroner requested for on-site investigation</string>
+        <string>dispatching coroner to handle the situation</string>
+        <string>urgent request for coroner presence</string>
+        <string>call for coroner services immediately</string>
+        <string>coroner needed for post-incident processing</string>
+        <string>requesting coroner to manage the scene</string>
+        <string>dispatch coroner for detailed scene work</string>
+        <string>coroner services required at the location</string>
+        <string>summon coroner for full investigation</string>
+        <string>coroner needed for this incident, please send</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Coroner</Target>
+</Action>

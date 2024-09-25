@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>investigating</Name>
+    <Commands>
+        <string>status</string>
+        <string>update</string>
+        <string>report</string>
+        <string>notify</string>
+        <string>inform</string>
+    </Commands>
+    <Phrases>
+        <string>currently investigating the situation</string>
+        <string>investigation in progress, will update soon</string>
+        <string>working on investigating this incident</string>
+        <string>currently examining the details of the case</string>
+        <string>investigative work is ongoing, more details to follow</string>
+        <string>engaged in investigation, status update pending</string>
+        <string>investigating the matter, please stand by for further information</string>
+        <string>ongoing investigation, will report findings shortly</string>
+        <string>currently in the process of investigation</string>
+        <string>investigation underway, update will follow</string>
+        <string>handling the investigation, more details to come</string>
+        <string>status: investigating the incident</string>
+        <string>informing that investigation is currently being conducted</string>
+        <string>working through the investigation, status to be updated</string>
+        <string>investigation in progress, please await further updates</string>
+        <string>currently involved in investigating this case</string>
+        <string>investigating at the scene, will provide more information soon</string>
+        <string>investigation ongoing, expect an update shortly</string>
+        <string>current status: actively investigating</string>
+        <string>investigation is active, reporting findings as soon as available</string>
+        <string>investigative efforts are in progress, please hold</string>
+        <string>engaged in investigation, status update forthcoming</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Investigating</Target>
+</Action>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3</Name>
+    <Commands>
+        <string>request</string>
+        <string>call</string>
+        <string>dispatch</string>
+        <string>notify</string>
+        <string>summon</string>
+    </Commands>
+    <Phrases>
+        <string>requesting code three backup immediately</string>
+        <string>additional units needed, code three</string>
+        <string>dispatch code three for urgent assistance</string>
+        <string>code three backup required at the scene</string>
+        <string>need additional backup, code three units</string>
+        <string>please send code three backup now</string>
+        <string>code three units requested for immediate response</string>
+        <string>summon code three for additional support</string>
+        <string>call in code three for enhanced backup</string>
+        <string>code three backup requested for current situation</string>
+        <string>dispatching code three units for urgent support</string>
+        <string>urgent need for code three backup</string>
+        <string>please notify code three for assistance</string>
+        <string>requesting code three backup at this location</string>
+        <string>additional code three support needed right away</string>
+        <string>code three units required for ongoing operations</string>
+        <string>dispatch code three to provide immediate help</string>
+        <string>code three support requested, please respond</string>
+        <string>need code three units for enhanced assistance</string>
+        <string>please send code three for emergency support</string>
+        <string>urgent request for code three backup units</string>
+        <string>dispatch code three for current critical situation</string>
+        <string>request code three backup for immediate action</string>
+        <string>code three units needed for urgent deployment</string>
+        <string>all available code three units requested for assistance</string>
+        <string>please arrange code three backup for prompt response</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3</Target>
+</Action>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advise</Name>
+    <Action>advise</Action>
+    <Phrases>
+        <string>be advised</string>
+        <string>note that</string>
+        <string>take note</string>
+        <string>please be aware</string>
+        <string>consider this</string>
+        <string>informing you</string>
+        <string>just so you know</string>
+        <string>heads up</string>
+        <string>for your information</string>
+        <string>be aware</string>
+        <string>I suggest</string>
+        <string>recommend</string>
+        <string>you should know</string>
+        <string>keep this in mind</string>
+        <string>pay attention to</string>
+        <string>note for future reference</string>
+        <string>here’s a heads up</string>
+        <string>advise you to</string>
+        <string>be conscious of</string>
+        <string>I would suggest</string>
+        <string>take into account</string>
+    </Phrases>
+</Command>

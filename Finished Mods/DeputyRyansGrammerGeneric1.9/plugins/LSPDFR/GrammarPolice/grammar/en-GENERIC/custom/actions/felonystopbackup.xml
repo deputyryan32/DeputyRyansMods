@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>felonystopbackup</Name>
+    <Commands>
+        <string>request</string>
+        <string>call</string>
+        <string>dispatch</string>
+        <string>notify</string>
+        <string>summon</string>
+    </Commands>
+    <Phrases>
+        <string>requesting felony stop backup immediately</string>
+        <string>need backup for felony stop at this location</string>
+        <string>dispatch additional units for felony stop</string>
+        <string>please send backup for ongoing felony stop</string>
+        <string>urgent request for felony stop backup</string>
+        <string>felony stop in progress, requesting backup</string>
+        <string>summon additional units for felony stop</string>
+        <string>need immediate backup for felony stop</string>
+        <string>dispatching backup for felony stop operation</string>
+        <string>call in extra units for felony stop support</string>
+        <string>backup required for critical felony stop</string>
+        <string>notify units for felony stop assistance</string>
+        <string>additional backup needed for current felony stop</string>
+        <string>requesting units for felony stop support</string>
+        <string>urgent felony stop backup needed now</string>
+        <string>dispatch backup units for felony stop scene</string>
+        <string>call for immediate assistance with felony stop</string>
+        <string>felony stop backup requested, please respond</string>
+        <string>backup needed for felony stop, please send units</string>
+        <string>requesting felony stop backup, all available units</string>
+        <string>dispatching backup for high-priority felony stop</string>
+        <string>additional felony stop support required, please respond</string>
+        <string>summon backup for critical felony stop situation</string>
+        <string>requesting immediate felony stop backup for safety</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.FelonyStopBackup</Target>
+</Action>

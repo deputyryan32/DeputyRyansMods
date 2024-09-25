@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>normal</Name>
+    <Action>normal</Action>
+    <Phrases>
+        <string>situation normal</string>
+        <string>I'm ok</string>
+        <string>all is normal</string>
+        <string>status normal</string>
+        <string>everything is fine</string>
+        <string>all clear</string>
+        <string>no issues</string>
+        <string>all systems go</string>
+        <string>everything's under control</string>
+        <string>status is normal</string>
+        <string>no problems here</string>
+        <string>conditions are normal</string>
+        <string>all conditions are normal</string>
+        <string>everything is operational</string>
+        <string>no changes</string>
+        <string>normal conditions</string>
+        <string>status report normal</string>
+        <string>all systems are functioning</string>
+        <string>everything is as expected</string>
+        <string>standard procedure</string>
+    </Phrases>
+</Command>

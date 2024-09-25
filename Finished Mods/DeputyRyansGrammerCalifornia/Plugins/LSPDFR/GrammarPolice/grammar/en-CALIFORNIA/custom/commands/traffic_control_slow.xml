@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_slow</Name>
+    <Action>traffic_control_slow</Action>
+    <Phrases>
+        <string>slow all traffic</string>
+        <string>slow nearby traffic</string>
+        <string>slow traffic</string>
+        <string>eleven eighty-four, slow traffic</string>
+        <string>ten seventy-nine, slow down traffic</string>
+        <string>ten thirty-three, reduce traffic speed</string>
+        <string>traffic control, slow down</string>
+        <string>ten eighty-five, traffic slowing</string>
+        <string>slow traffic in the area</string>
+        <string>ten seventy-five, reduce speed</string>
+        <string>slow vehicles approaching</string>
+        <string>ten sixty-six, traffic control update</string>
+        <string>traffic control, ten ninety-nine, slow</string>
+        <string>ten forty-two, off-duty traffic slow</string>
+        <string>requesting traffic to slow down</string>
+        <string>ten eighty-seven, slowing traffic status</string>
+        <string>reduce speed, eleven eighty-four</string>
+    </Phrases>
+</Command>
