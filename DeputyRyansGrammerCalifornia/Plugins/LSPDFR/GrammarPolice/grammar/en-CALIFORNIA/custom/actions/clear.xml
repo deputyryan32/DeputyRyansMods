@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>clear</Name>
+    <Phrases>
+        <string>clear me</string>
+        <string>code four</string>
+        <string>ten seventy-nine, clear</string>
+        <string>ten thirty-three, situation clear</string>
+        <string>ten eighty-five, situation code four</string>
+        <string>ten ninety-seven, clear status</string>
+        <string>all clear</string>
+        <string>clear the scene</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Code4</Target>
+</Action>

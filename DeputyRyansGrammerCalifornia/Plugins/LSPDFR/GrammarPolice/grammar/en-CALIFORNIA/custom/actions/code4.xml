@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code4</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>code four</string>
+        <string>four</string>
+        <string>ten ninety-eight, situation under control</string>
+        <string>ten eighty-four, all clear</string>
+        <string>scene secure, code four</string>
+        <string>all units code four</string>
+        <string>no further assistance needed, code four</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Code4</Target>
+</Action>

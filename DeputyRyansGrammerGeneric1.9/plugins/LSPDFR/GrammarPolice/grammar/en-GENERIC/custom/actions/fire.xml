@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>fire</Name>
+    <Commands>
+        <string>request</string>
+        <string>call</string>
+        <string>dispatch</string>
+        <string>notify</string>
+        <string>summon</string>
+    </Commands>
+    <Phrases>
+        <string>requesting fire department to the scene</string>
+        <string>need fire and rescue services immediately</string>
+        <string>dispatch fire units for emergency response</string>
+        <string>please send the fire department to the location</string>
+        <string>urgent request for fire and rescue assistance</string>
+        <string>fire services needed at this site</string>
+        <string>fire department requested for immediate support</string>
+        <string>summon fire and rescue teams to the scene</string>
+        <string>fire units required for active fire situation</string>
+        <string>notify fire department for urgent intervention</string>
+        <string>call in fire services for emergency response</string>
+        <string>fire department needed for ongoing incident</string>
+        <string>requesting fire and rescue teams for this emergency</string>
+        <string>fire department dispatched for critical situation</string>
+        <string>immediate response required from fire services</string>
+        <string>dispatch fire units to handle the fire</string>
+        <string>urgent fire and rescue support requested</string>
+        <string>please arrange for fire department to respond</string>
+        <string>fire services required, dispatch immediately</string>
+        <string>fire department called for active fire support</string>
+        <string>summon fire units for immediate action</string>
+        <string>requesting fire and rescue for urgent fire situation</string>
+        <string>fire department needed for quick response</string>
+        <string>dispatching fire services for critical fire incident</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Fire</Target>
+</Action>

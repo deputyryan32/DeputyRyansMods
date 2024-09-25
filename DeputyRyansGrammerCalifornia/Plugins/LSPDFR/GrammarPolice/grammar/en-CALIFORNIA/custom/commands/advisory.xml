@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advisory</Name>
+    <Phrases>
+        <string>I have</string>
+        <string>I have the</string>
+        <string>I have a</string>
+        <string>I have an</string>
+        <string>I have one</string>
+        <string>I have two</string>
+        <string>I have three</string>
+        <string>I have four</string>
+        <string>we have</string>
+        <string>we have the</string>
+        <string>we have a</string>
+        <string>we have an</string>
+        <string>we have one</string>
+        <string>we have two</string>
+        <string>we have three</string>
+        <string>we have four</string>
+        <string>suspect is</string>
+        <string>civilian is</string>
+        <string>ten seventy-six, en route with</string>
+        <string>ten ninety-seven, on scene with</string>
+        <string>ten seventy-nine, notifying coroner of</string>
+        <string>ten fifty-five, suspect intoxicated</string>
+        <string>ten sixty-two, prisoners in custody</string>
+        <string>ten sixty-nine, message received from</string>
+        <string>ten eighty-one, performing breathalyzer on</string>
+        <string>ten seventy-five, responding with additional units</string>
+        <string>ten thirty-four, riot in progress at</string>
+        <string>ten forty-two, off duty at</string>
+        <string>ten eighty-seven, arriving shortly with</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_stop</Name>
+    <Action>traffic_control_stop</Action>
+    <Phrases>
+        <string>stop all traffic</string>
+        <string>stop nearby traffic</string>
+        <string>stop traffic</string>
+        <string>halt all traffic</string>
+        <string>halt nearby traffic</string>
+        <string>halt traffic</string>
+        <string>traffic at a standstill</string>
+        <string>bring traffic to a stop</string>
+        <string>traffic stopping</string>
+        <string>hold traffic</string>
+        <string>pause all traffic</string>
+        <string>traffic on hold</string>
+        <string>traffic stopped</string>
+        <string>freeze traffic</string>
+        <string>cease all traffic movement</string>
+        <string>traffic halt</string>
+        <string>all vehicles stop</string>
+        <string>traffic control stop</string>
+        <string>traffic has stopped</string>
+        <string>vehicles stopped</string>
+    </Phrases>
+</Command>

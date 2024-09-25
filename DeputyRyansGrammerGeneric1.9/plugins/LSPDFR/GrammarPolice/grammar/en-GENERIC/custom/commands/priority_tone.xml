@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>priority_tone</Name>
+    <Action>priority_tone</Action>
+    <Phrases>
+        <string>signal one hundred</string>
+        <string>clear signal one hundred</string>
+        <string>cancel signal one hundred</string>
+        <string>activate priority tone</string>
+        <string>deactivate priority tone</string>
+        <string>priority signal active</string>
+        <string>clear priority signal</string>
+        <string>cancel priority tone</string>
+        <string>engage priority tone</string>
+        <string>priority alert active</string>
+        <string>disable priority tone</string>
+        <string>reset priority signal</string>
+        <string>priority tone engaged</string>
+        <string>clear priority alert</string>
+        <string>priority signal engaged</string>
+        <string>priority tone status</string>
+        <string>signal override</string>
+        <string>priority tone reset</string>
+        <string>priority tone cancelled</string>
+        <string>priority alert deactivated</string>
+    </Phrases>
+</Command>

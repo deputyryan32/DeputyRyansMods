@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>cancel_checks</Name>
+    <Phrases>
+        <string>cancel</string>
+        <string>situation normal cancel</string>
+        <string>ten seventy-nine, cancel checks</string>
+        <string>ten thirty-three, cancel all checks</string>
+        <string>ten eighty-five, canceling checks</string>
+        <string>ten ninety-seven, checks canceled</string>
+        <string>cancel all current checks</string>
+        <string>ten forty-two, off-duty cancel checks</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Interactions.Cancel_Checks</Target>
+</Action>

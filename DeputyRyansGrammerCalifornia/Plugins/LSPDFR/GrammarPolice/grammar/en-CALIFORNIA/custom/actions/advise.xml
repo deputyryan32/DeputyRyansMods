@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>advise</Name>
+    <Phrases>
+        <string>be advised</string>
+        <string>ten seventy-nine, be advised</string>
+        <string>ten thirty-three, be informed</string>
+        <string>ten eighty-five, advisory</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Advise</Target>
+</Action>

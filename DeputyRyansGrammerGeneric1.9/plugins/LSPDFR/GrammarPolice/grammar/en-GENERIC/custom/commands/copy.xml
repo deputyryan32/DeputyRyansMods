@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>copy</Name>
+    <Action>copy</Action>
+    <Phrases>
+        <string>copy</string>
+        <string>ten four</string>
+        <string>received</string>
+        <string>understood</string>
+        <string>roger that</string>
+        <string>affirmative</string>
+        <string>message received</string>
+        <string>got it</string>
+        <string>acknowledged</string>
+        <string>confirmed</string>
+        <string>received and understood</string>
+        <string>copy that</string>
+        <string>message noted</string>
+        <string>affirmative, copy</string>
+        <string>copy and understood</string>
+        <string>yes, copy</string>
+        <string>all received</string>
+        <string>everything clear</string>
+        <string>confirmed, over</string>
+        <string>roger, copy</string>
+        <string>understood, ten four</string>
+    </Phrases>
+</Command>

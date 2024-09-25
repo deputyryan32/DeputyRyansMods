@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>yes</Name>
+    <Action>yes</Action>
+    <Phrases>
+        <string>yes</string>
+        <string>affirmative</string>
+        <string>copy that</string>
+        <string>roger</string>
+        <string>10-4</string>
+        <string>that's correct</string>
+        <string>confirmed</string>
+        <string>absolutely</string>
+        <string>agreed</string>
+        <string>correct</string>
+        <string>right</string>
+        <string>understood</string>
+        <string>received</string>
+        <string>acknowledged</string>
+        <string>certainly</string>
+        <string>definitely</string>
+        <string>indeed</string>
+        <string>yup</string>
+        <string>aye</string>
+        <string>all good</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_stop</Name>
+    <Action>traffic_control_stop</Action>
+    <Phrases>
+        <string>stop all traffic</string>
+        <string>stop nearby traffic</string>
+        <string>stop traffic</string>
+        <string>eleven eighty-four, stop traffic</string>
+        <string>ten seventy-nine, stop all vehicles</string>
+        <string>ten thirty-three, stop traffic in the area</string>
+        <string>traffic control, stop all movement</string>
+        <string>ten eighty-five, traffic stop initiated</string>
+        <string>stop all lanes</string>
+        <string>ten seventy-five, stopping traffic now</string>
+        <string>traffic halted, ten sixty-six</string>
+        <string>stop vehicles approaching</string>
+        <string>ten ninety-nine, traffic stop requested</string>
+        <string>traffic control, ten forty-two, stop</string>
+        <string>requesting all traffic to stop</string>
+        <string>ten eighty-seven, traffic stop status</string>
+        <string>eleven eighty-four, stop all traffic immediately</string>
+    </Phrases>
+</Command>

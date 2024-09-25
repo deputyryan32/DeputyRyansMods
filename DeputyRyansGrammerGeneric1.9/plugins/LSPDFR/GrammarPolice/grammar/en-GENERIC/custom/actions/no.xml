@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>no</Name>
+    <Commands>
+        <string>response</string>
+        <string>reply</string>
+        <string>confirmation</string>
+        <string>update</string>
+    </Commands>
+    <Phrases>
+        <string>negative</string>
+        <string>no</string>
+        <string>not at this time</string>
+        <string>unavailable</string>
+        <string>not possible</string>
+        <string>decline</string>
+        <string>unable to comply</string>
+        <string>no, not feasible</string>
+        <string>not an option</string>
+        <string>negative response</string>
+        <string>not doable</string>
+        <string>not acceptable</string>
+        <string>cannot proceed</string>
+        <string>not possible at the moment</string>
+        <string>declining the request</string>
+        <string>unavailable for the task</string>
+        <string>rejecting the proposal</string>
+        <string>unable to assist</string>
+        <string>no way</string>
+        <string>not going to happen</string>
+        <string>negative feedback</string>
+        <string>cannot fulfill the request</string>
+        <string>not applicable</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Interactions.No</Target>
+</Action>
